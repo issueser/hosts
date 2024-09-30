@@ -1,0 +1,4 @@
+||battleofballs.com^
+
+cdn1.battleofballs.com
+file.battleofballs.com
