@@ -1,0 +1,8 @@
+||fnnas.com^
+
+mediasvc.fnnas.com
+event.fnnas.com
+appcenter-service.fnnas.com
+appcenter-pkg.fnnas.com
+api.liveupdate.fnnas.com
+download.liveupdate.fnnas.com
