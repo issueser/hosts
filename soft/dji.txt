@@ -1,0 +1,8 @@
+||dji.com^
+||skypixel.com^
+||djiservice.org^
+
+mydjiflight.dji.com
+mimo.skypixel.com
+api.djiservice.org
+account-api.dji.com
