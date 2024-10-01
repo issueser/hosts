@@ -4,6 +4,7 @@
 ||biliapi.net^
 ||bilicdn1.com^
 ||biliapi.com^
+||hdslb.com^
 
 www.bilibili.com
 cm.bilibili.com
@@ -27,3 +28,5 @@ border-broadcast.chat.biliapi.com
 pay.bilibili.com
 broadcast.chat.bilibili.com
 grpc.biliapi.net
+i1.hdslb.com
+i2.hdslb.com
