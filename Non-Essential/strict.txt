@@ -70,7 +70,7 @@ ecom*-normal-hl.ecombdapi.com
 tr.byteurl.cn
 tnc*-aliec*.zijieapi.com
 
-#番茄小说241104
+# 番茄小说241104
 mssdk.volces.com
 direct.webcast-websocket-lb.lq.bytelb.net
 p*-item.ecombdimg.com
@@ -78,6 +78,15 @@ lf*-cdn-tos.bytescm.com
 imapi*-oth-hl.zijieapi.com
 rtapplog.zijieapi.com
 praisewindow-sinfonlineb.ugsdk.cn
+
+# 番茄小说241227
+#  上海博新锐科技有限公司 (牛链云)
+||aigccdn.com^
+||ietheivaicai.com^
+
+# 联通一键登录SDK (中国联合网络通信有限公司)
+enrichgw.10010.com
+msv6.wosms.cn
 
 # 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
 ||medproad.com^
