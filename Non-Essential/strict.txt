@@ -91,3 +91,4 @@ adtracker.medproad.com
 ||dsplog.vivo.com.cn^
 ||log.aispeech.com^
 ||log.hikmall.com^
+||alogs.umengcloud.con^
