@@ -1,0 +1,93 @@
+# 联想大杂烩（平板）
+cnszui.lenovomm.com
+icns.zui.lenovomm.com
+papkg.lenovomm.com
+uapkg.lenovomm.com
+suapkg.lenovomm.com
+apkg.lenovomm.com
+apkg1.lenovomm.com
+papk.lenovomm.com
+uapk.lenovomm.com
+suapk.lenovomm.com
+apk.lenovomm.com
+apk1.lenovomm.com
+dl.lenovomm.com
+sams.lenovomm.com
+lds.lenovomm.com
+fsr.lenovomm.com
+cdn.zui.lenovomm.com
+pimapi.lenovomm.com
+apizui.lenovomm.com
+fmota.lenovomm.com
+dcf1.lenovomm.cn
+uefsr.zui.com
+mobile-ota.lenovo.com
+hao.lenovo.com.cn
+download.api.bsb.baidu.com
+
+# 联想 Unknown push
+push-rest.zui.com
+# 联想平板内置的天气: api.weathercn.com
+
+# 雷电模拟器 (Does not affect: 雷电游戏中心)
+||game-service.ldmnq.com^
+||appstore.ldmnq.com^
+||res.ldmnq.com^
+
+# fnos
+||dht.teiron-inc.cn^
+
+# 美团
+||mads.meituan.com^
+||adsmind.ugdtimg.com^
+
+# Unknown app is likely PCDN.
+||conf-darwin.xycdn.com^
+
+# 彩云天气
+ad.cyapi.cn
+
+#potplayer
+status.thawte.com
+play.kakao.com
+p1-play.edge4k.com
+stat.tiara.kakao.com
+
+# 友盟分销
+||umtrack.com^
+
+# Preventing Privacy Leaks: Qualcomm Issues  
+||izatcloud.net^
+xtrapath.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
+# 番茄小说241001
+ec*-core-hl.ecombdapi.com
+isaas*-normal-hl.ecombdapi.com
+ecom*-normal-hl.ecombdapi.com
+tr.byteurl.cn
+tnc*-aliec*.zijieapi.com
+
+#番茄小说241104
+mssdk.volces.com
+direct.webcast-websocket-lb.lq.bytelb.net
+p*-item.ecombdimg.com
+lf*-cdn-tos.bytescm.com
+imapi*-oth-hl.zijieapi.com
+rtapplog.zijieapi.com
+praisewindow-sinfonlineb.ugsdk.cn
+
+# 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
+||medproad.com^
+||medproad.cn^
+adtracker.medproad.com
+
+# 上海咩叽科网络科技有限公司
+||magicacid.cn^
+
+# Matching Keywords
+||dsplog.vivo.com.cn^
+||log.aispeech.com^
+||log.hikmall.com^
