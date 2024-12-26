@@ -1,0 +1,5 @@
+
+||update.avlyun.com^
+||update-drcn.platform.hicloud.com^
+||update.dbankcdn.com^
+||updateinfo.market.xiaomi.com^
