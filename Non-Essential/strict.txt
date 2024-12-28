@@ -101,3 +101,4 @@ adtracker.medproad.com
 ||log.aispeech.com^
 ||log.hikmall.com^
 ||alogs.umengcloud.con^
+sentry-inc.ssr.mihoyo.com
