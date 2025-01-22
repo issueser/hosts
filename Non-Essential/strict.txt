@@ -40,6 +40,9 @@ utoken.umeng.com
 sss.umeng.com
 zb-umpzid.umeng.com
 ||umtrack.com^
+cnlogs.umengcloud.com
+alog-default.umeng.com
+resolve.umeng.com
 
 # APP[狐猴浏览器]
 analyze.lemurbrowser.com
