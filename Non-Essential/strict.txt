@@ -1,3 +1,162 @@
+#Strict rules
+
+# sentry
+||sentry.io^
+
+# uyunad
+||uyunad.com^
+
+# Matching Keywords By [unknown]
+||device.cup.com.cn^
+tj.wn51.com
+tj.hhrspb7.top
+||device.cup.com.cn^
+logcollection.ronghub.com
+||dsp.fcbox.com^
+sb.adtidy.org
+juhereport.gzwku.com
+anti-sdk-report.m.jd.com.gslb.qianxun.com
+sentry.p.gc.onl
+stats.chinaz.com
+||analytics.query.yahoo.com^
+analytics.95516.com
+adv.ccb.com
+imageadv.ccb.com
+tracklog.58.com
+adtracker.medproad.com
+hugelog.fcbox.com
+||*-report-api.zego.im^
+# 原始：live3239798946-report-api.zego.im
+cloud-log.yy.com
+||log.aispeech.com^
+||log.hikmall.com^
+||dsplog.vivo.com.cn^
+
+# 友盟
+||alogs.umengcloud.con^
+
+# APP[狐猴浏览器]
+analyze.lemurbrowser.com
+
+# EXE[迅雷]
+static-xl9-ssl.xunlei.com
+
+# AD[拼多多]
+adim.pinduoduo.com
+dspsdk.pinduoduo.com
+
+# APP[什么值得买]
+sentry-monitor-new.zdmimg.com
+/(^|\.)analytics-api-0[0-9]\.smzdm\.com$/
+# 原始: analytics-api-01.smzdm.com，多地Ping得知02等等都没有启用
+
+# App[原神][米游社][星穹铁道] By [mihoyo]
+sentry-inc.ssr.mihoyo.com
+apm-api.mihoyo.com
+
+# APP [知乎]
+apm.zhihu.com
+zhstatic.zhihu.com
+zhihu-web-analytics.zhihu.com
+
+# APP [ADGuard Home Manager] By [JGeeK00]
+glitchtip.jgeek00.com
+
+# 腾讯
+rmonitor.qq.com
+# https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
+# SDK名称：RMonitor
+# 提供主体：深圳市腾讯计算机系统有限公司
+# 使用目的：用于统计用户数量
+# 处理方式：通过去标识化、加密传输和处理的安全处理方式
+# 收集个人信息类型：Identifier For Vendor(供应商标识符）
+||rqd.qq.com^
+log.weixin.qq.com
+logbk-qd.amemv.com
+mazu.m.qq.com
+mazu.3g.qq.com
+||info.appbuyapp.com^
+||beacon.qq.com^
+||bugly.qq.com^
+cgi.kandian.qq.com
+# 暂时取消cgi.connect.qq.com
+configsvr.msf.3g.qq.com
+tmfsdk.m.qq.com
+tmfsdk4.m.qq.com
+tmfsdk6.m.qq.com
+tmfsdktcpv4.m.qq.com
+tmfsdktcpv6.m.qq.com
+tmeadcomm.y.qq.com
+tools.3g.qq.com
+tmfsdktcp.m.qq.com
+||trace.qq.com^
+||tpstelemetry.tencent.com^
+api.yky.qq.com
+cfg.imtt.qq.com
+data.ab.qq.com
+info4.video.qq.com
+info6.video.qq.com
+tmead.y.qq.com
+tmeadbak.y.qq.com
+tmeadcomm.y.qq.com
+trace.qq.com
+trace.*.qq.com
+# 原始：trace.video.qq.com
+stdl.qq.com
+report.im.qcloud.com
+report.igtm-meeting-tencent.com
+report.meeting.tencent.com
+tracker-01.qvb.qcloud.com
+
+# 谷歌
+||google-analytics.com^
+
+# EXE[360极速浏览器] & other
+cloud.browser.360.cn
+||tt.browser.360.cn^
+||f.360.cn^
+||50union.com^
+||union.360.cn^
+||appjiagu.com^
+||sayhi.360.cn^
+
+# web[百度]
+bes-mtj.baidu.com
+click.hm.baidu.com
+# boxer.baidu.com
+# **唤起APP，互联网中有反应会导致无法正常使用手机网页百度搜索的问题
+# 240725注：多日实际测试表现为厂商未知手段检测为iPhone-Safari进入m.*****.com搜索时，下一页与部分搜索结果（常见csdn）的域名为boxer.*****.com，带来无法进入搜索结果或者下一页的问题，小部分情况从拦截域名返回搜索页重新点击可以正常进入下一页或搜索结果，应该无法单纯靠DNS进行管理。
+dlswbr.baidu.com
+# **JS反爬资源域名，尚未知晓是否可以联动页面，故Subjective
+fxgate.baidu.com
+# **oCPC JS SDK资源域名，未查询到其它用途，暂Subjective
+# JS 埋码是指在投放广告的网页（落地页）中引入由百度提供的 SDK 并根据实际业务场景在转化行为发生时通过 SDK 的接口来上报转化数据的接入方式。
+pimlog.baidu.com
+hector.baidu.com
+hectorstatic.baidu.com
+#百度250121
+mbd.baidu.com
+ug.baidu.com
+udpolimeok.baidu.com
+
+#京东
+mllog.jd.com
+anti-sdk-report.m.jd.com
+sgm-m.jd.com
+uranus.jd.com
+stat.m.jd.com
+#京东250122
+||jddebug.com^
+
+# 萤石
+log.ys7.com
+logcn.ys7.com
+devlog.ys7.com
+# EXE[iVMS-4200]
+pdms.ys7.com
+sqpds.ys7.com
+xy3pds.ys7.com
+
 # 联想大杂烩（平板）
 cnszui.lenovomm.com
 icns.zui.lenovomm.com
@@ -29,17 +188,27 @@ download.api.bsb.baidu.com
 push-rest.zui.com
 # 联想平板内置的天气: api.weathercn.com
 
-# 雷电模拟器 (Does not affect: 雷电游戏中心)
+# 雷电模拟器
 ||game-service.ldmnq.com^
 ||appstore.ldmnq.com^
 ||res.ldmnq.com^
+middledata.ldmnq.com
+user-service.ldmnq.com
+api.ldmnq.com
+ldapi.ldmnq.com
+cz-platform.ldmnq.com
+mnqfile.ldmnq.com
+mnq-service.ldmnq.com
 
 # fnos
 ||dht.teiron-inc.cn^
+event.fnnas.com
 
 # 美团
 ||mads.meituan.com^
 ||adsmind.ugdtimg.com^
+logan-rtl.dreport.meituan.net
+dreport.meituan.net
 
 # Unknown app is likely PCDN.
 ||conf-darwin.xycdn.com^
@@ -63,7 +232,86 @@ xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 
-# 番茄小说241001
+# 联通一键登录SDK (中国联合网络通信有限公司)
+enrichgw.10010.com
+msv6.wosms.cn
+
+# 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
+||medproad.com^
+||medproad.cn^
+adtracker.medproad.com
+
+# 上海咩叽科网络科技有限公司
+||magicacid.cn^
+
+# EXE[百分浏览器]
+stats.centbrowser.cn
+
+# APP[酷安]
+||shuzilm.cn^
+# 数字联盟：貌似是一个根据算法为同一个设备生成设备识别ID和可信分数的SDK
+integralwall.baidu.com
+api-htp.beizi.biz
+file.daihuo.qq.com
+
+# APP[球球大作战]
+athena-update.sdk.mobileztgame.com
+||cscn.loveota.com^
+
+# EXE[bandizip]
+||hibitsoft.ir^
+||bandi.so^
+c.pki.goog
+
+# WEB[CSDN]
+eva2.csdn.net
+mp-activity.csdn.net
+devpress-api.csdn.net
+bizapi.csdn.net
+
+# 微软 250122
+||events.data.microsoft.com^
+in.appcenter.ms
+
+# ###################################################### 专用分区1 网易系 ######################################################
+applogsg.matrix.netease.com
+analytics.mpay.netease.com
+audiostatlog.cc.163.com
+netapm.music.163.com
+down.anticheatexpert.com
+tqos.anticheatexpert.com
+dns.update.netease.com
+applog.matrix.netease.com
+ac.dun.163yun.com
+
+# ###################################################### 专用分区2 阿里系 ######################################################
+mum.alibabachengdun.com
+cdn-mum.alibabachengdun.com
+acs-mum.alibabachengdun.com
+vip-bgp-mum.alibabachengdun.com
+vip-chinanet-mum.alibabachengdun.com
+vip-cmcc-mum.alibabachengdun.com
+agoo-report.m.taobao.com
+# 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
+ynuf.alipay.com
+# ###################################################### 专用分区3 字节系 ######################################################
+apmplus.volces.com
+# 应用性能监控全链路版
+# APMPlus是字节跳动应用开发套件MARS下的性能监控产品
+# 接入说明--应用性能监控全链路版
+# 2022年6月20日 — Parfait SDK是APMPlus PC监控平台的官方SDK，提供跨平台C++ API，是动态库，可监控应用线上稳定性问题。 步骤一：接入SDK. Native App接入. 下载SDK。
+ichannel.snssdk.com
+vas-lf-x.snssdk.com
+tbm.snssdk.com
+ma.zijieapi.com
+lf3-analytics.bytescm.com
+||lf3-analytics.bytescm.com.queniuuf.com^
+toblog.ctobsnssdk.com
+tobapplog.ctobsnssdk.com
+ug.snssdk.com
+tnc3-aliec2.zijieapi.com
+
+# 番茄小说 241001
 ec*-core-hl.ecombdapi.com
 isaas*-normal-hl.ecombdapi.com
 ecom*-normal-hl.ecombdapi.com
@@ -84,21 +332,25 @@ praisewindow-sinfonlineb.ugsdk.cn
 ||aigccdn.com^
 ||ietheivaicai.com^
 
-# 联通一键登录SDK (中国联合网络通信有限公司)
-enrichgw.10010.com
-msv6.wosms.cn
-
-# 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
-||medproad.com^
-||medproad.cn^
-adtracker.medproad.com
-
-# 上海咩叽科网络科技有限公司
-||magicacid.cn^
-
-# Matching Keywords
-||dsplog.vivo.com.cn^
-||log.aispeech.com^
-||log.hikmall.com^
-||alogs.umengcloud.con^
-sentry-inc.ssr.mihoyo.com
+#番茄小说250120
+||p6-ecom-qualification-sign.ecombdimg.com^
+||p*-novel.byteimg.com^
+||p3-ecom-qualification-sign.ecombdimg.com^
+||pull-flv-l96.douyincdn.com^
+||pull-tsl-spe-l1.douyinliving.com^
+||lf*-ad.searchpstatp.com^
+||lf3-reading.fqnovelpic.com^
+||umc.danuoyi.alicdn.com^
+||p3-webcast-sign.douyinpic.com^
+lf-webcast-sourcecdn-tos.bytegecko.com
+||p*-pack-sign.douyinpic.com^
+sx-common-all.volcgtm.com
+i-hl.snssdk.com
+reading-hl.snssdk.com
+dm-hl.toutiao.com
+effect.snssdk.com
+saveu5-normal-hl.zijieapi.com
+||p*-reading-sign.fqnovelpic.com^
+||abtest*-misc-hl.zijieapi.com^
+||lf*-cdn-tos-ncdn.bytegecko.com^
+||bsync*-normal-hl.zijieapi.com^
