@@ -317,6 +317,7 @@ tqos.anticheatexpert.com
 dns.update.netease.com
 applog.matrix.netease.com
 ac.dun.163yun.com
+netapm.music.163.com
 
 # ###################################################### Zone 02: 阿里系 ######################################################
 mum.alibabachengdun.com
