@@ -275,6 +275,10 @@ bizapi.csdn.net
 ||events.data.microsoft.com^
 in.appcenter.ms
 
+# 快手
+# ntp.en.gifshow.com slink.gifshow.com push.gifshow.com az4-api-js.gifshow.com az4-upload-js.gifshow.com apijsv6.gifshow.com az4-live-js.gifshow.com #
+ulog.v6.gifshow.com
+gdfp.gifshow.com
 # ###################################################### 专用分区1 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
@@ -293,9 +297,17 @@ acs-mum.alibabachengdun.com
 vip-bgp-mum.alibabachengdun.com
 vip-chinanet-mum.alibabachengdun.com
 vip-cmcc-mum.alibabachengdun.com
-agoo-report.m.taobao.com
 # 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
+agoo-report.m.taobao.com
 ynuf.alipay.com
+# APP[闲鱼]
+umc.danuoyi.alicdn.com
+px.ucweb.com
+h-adashx.ut.taobao.com
+# WEB[taobao]
+gm.mmstat.com
+s-gm.mmstat.com
+d-gm.mmstat.com
 # ###################################################### 专用分区3 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
@@ -339,7 +351,6 @@ praisewindow-sinfonlineb.ugsdk.cn
 ||p*-novel.byteimg.com^
 ||lf*-ad.searchpstatp.com^
 ||lf*-reading.fqnovelpic.com^
-||umc.danuoyi.alicdn.com^
 ||p*-webcast-sign.douyinpic.com^
 lf-webcast-sourcecdn-tos.bytegecko.com
 ||p*-pack-sign.douyinpic.com^
