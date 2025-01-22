@@ -109,6 +109,7 @@ report.meeting.tencent.com
 tracker-01.qvb.qcloud.com
 apd-pcdnwxnat.teg.tencent-cloud.net
 
+
 # 谷歌
 ||google-analytics.com^
 
@@ -357,3 +358,6 @@ saveu5-normal-hl.zijieapi.com
 ||bsync*-normal-hl.zijieapi.com^
 /^[a-zA-Z0-9-_]{7,}\.vegslb\.com$/
 # Unknow & Long & random & subDomain
+mon*-misc-hl.fqnovel.com
+api5-normal-sinfonlineb.fqnovel.com
+api5-normal-hl.fqnovel.com
