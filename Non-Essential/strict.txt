@@ -335,15 +335,12 @@ praisewindow-sinfonlineb.ugsdk.cn
 ||ietheivaicai.com^
 
 #番茄小说250120
-||p6-ecom-qualification-sign.ecombdimg.com^
+||p*-ecom-qualification-sign.ecombdimg.com^
 ||p*-novel.byteimg.com^
-||p3-ecom-qualification-sign.ecombdimg.com^
-||pull-flv-l96.douyincdn.com^
-||pull-tsl-spe-l1.douyinliving.com^
 ||lf*-ad.searchpstatp.com^
-||lf3-reading.fqnovelpic.com^
+||lf*-reading.fqnovelpic.com^
 ||umc.danuoyi.alicdn.com^
-||p3-webcast-sign.douyinpic.com^
+||p*-webcast-sign.douyinpic.com^
 lf-webcast-sourcecdn-tos.bytegecko.com
 ||p*-pack-sign.douyinpic.com^
 sx-common-all.volcgtm.com
@@ -351,7 +348,7 @@ i-hl.snssdk.com
 reading-hl.snssdk.com
 dm-hl.toutiao.com
 effect.snssdk.com
-saveu5-normal-hl.zijieapi.com
+saveu*-normal-hl.zijieapi.com
 ||p*-reading-sign.fqnovelpic.com^
 ||abtest*-misc-hl.zijieapi.com^
 ||lf*-cdn-tos-ncdn.bytegecko.com^
@@ -359,5 +356,5 @@ saveu5-normal-hl.zijieapi.com
 /^[a-zA-Z0-9-_]{7,}\.vegslb\.com$/
 # Unknow & Long & random & subDomain
 mon*-misc-hl.fqnovel.com
-api5-normal-sinfonlineb.fqnovel.com
-api5-normal-hl.fqnovel.com
+api*-normal-sinfonlineb.fqnovel.com
+api*-normal-hl.fqnovel.com
