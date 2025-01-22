@@ -107,6 +107,7 @@ report.im.qcloud.com
 report.igtm-meeting-tencent.com
 report.meeting.tencent.com
 tracker-01.qvb.qcloud.com
+apd-pcdnwxnat.teg.tencent-cloud.net
 
 # 谷歌
 ||google-analytics.com^
