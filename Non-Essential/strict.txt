@@ -354,3 +354,5 @@ saveu5-normal-hl.zijieapi.com
 ||abtest*-misc-hl.zijieapi.com^
 ||lf*-cdn-tos-ncdn.bytegecko.com^
 ||bsync*-normal-hl.zijieapi.com^
+/^[a-zA-Z0-9-_]{7,}\.vegslb\.com$/
+# Unknow & Long & random & subDomain
