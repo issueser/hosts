@@ -2,3 +2,8 @@
 
 cdn1.battleofballs.com
 file.battleofballs.com
+app.battleofballs.com
+report.battleofballs.com
+weather.battleofballs.com
+acc.battleofballs.com
+apis.sdk.mobileztgame.com
