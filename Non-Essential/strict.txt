@@ -301,6 +301,10 @@ mobile-api.adguard.org
 # ???[dnspod] DNS检测系统所用dns服务器
 *.check.dns.pub
 
+# GAME[浪漫餐厅] By [microfun]
+da.oper.microfun.cn
+# microfun.com microfun.cn
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
