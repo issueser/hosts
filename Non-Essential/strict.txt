@@ -262,12 +262,6 @@ mp-activity.csdn.net
 devpress-api.csdn.net
 bizapi.csdn.net
 
-# 微软 microsoft 250122
-||events.data.microsoft.com^
-in.appcenter.ms
-bzib.nelreports.net
-self.events.data.microsoft.com
-
 # APP[快手]
 # ntp.en.gifshow.com slink.gifshow.com push.gifshow.com az4-api-js.gifshow.com az4-upload-js.gifshow.com apijsv6.gifshow.com az4-live-js.gifshow.com #
 ulog.v6.gifshow.com
@@ -366,6 +360,11 @@ t7z.cupid.iqiyi.com
 mpush-api.aliyun.com
 worldwide.sogou.com
 
+||statusapi.micloud.xiaomi.net^
+statusapi.micloud.xiaomi.net
+us.statusapi.micloud.xiaomi.net
+eu.statusapi.micloud.xiaomi.net
+
 # ###################################################### Har & mony & OS ######################################################
 logs.prod.flamingo.apelabs.net
 events-drcn.op.dbankcloud.cn
@@ -427,6 +426,37 @@ dsp.lenovo.com.cn
 # Unknown push
 push-rest.zui.com
 # 联想平板内置的天气: api.weathercn.com
+# ###################################################### Zone 6: microsoft ######################################################
+# 250122
+||events.data.microsoft.com^
+self.events.data.microsoft.com
+v10.events.data.microsoft.com
+v10c.events.data.microsoft.com
+in.appcenter.ms
+bzib.nelreports.net
+
+# 250123
+||vortex-win.data.microsoft.com^
+vortex-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+watson.telemetry.microsoft.com
+umwatsonc.events.data.microsoft.com
+*-umwatsonc.events.data.microsoft.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+oca.telemetry.microsoft.com
+oca.microsoft.com
+kmwatsonc.events.data.microsoft.com
+*-kmwatsonc.events.data.microsoft.com
+# https://learn.microsoft.com/en-us/windows/deployment/update/wufb-reports-configuration-manual
+# https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization
+# https://support.microsoft.com/zh-cn/topic/%E6%9B%B4%E6%96%B0%E7%9A%84%E5%AE%A2%E6%88%B7%E4%BD%93%E9%AA%8C%E5%92%8C%E8%AF%8A%E6%96%AD%E9%81%A5%E6%B5%8B-0b4f29c3-8361-b748-f862-7ecedbc57cbf
+
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
