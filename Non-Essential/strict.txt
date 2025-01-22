@@ -31,15 +31,27 @@ cloud-log.yy.com
 ||log.aispeech.com^
 ||log.hikmall.com^
 ||dsplog.vivo.com.cn^
+||gd.xinhuanet.com^
 
-# 友盟
+# SDK[友盟]
 ||alogs.umengcloud.con^
+# BY_APP[沃视频]
+utoken.umeng.com
+sss.umeng.com
+zb-umpzid.umeng.com
+||umtrack.com^
 
 # APP[狐猴浏览器]
 analyze.lemurbrowser.com
 
 # EXE[迅雷]
 static-xl9-ssl.xunlei.com
+test.api.xlmc.sandai.net
+hub5pn.*.sandai.net
+hub5pnc.sandai.net
+hub5u.wap.sandai.net
+idx.m.hub.sandai.net
+uploadlog.xlmc.sandai.net
 
 # AD[拼多多]
 adim.pinduoduo.com
@@ -54,15 +66,15 @@ sentry-monitor-new.zdmimg.com
 sentry-inc.ssr.mihoyo.com
 apm-api.mihoyo.com
 
-# APP [知乎]
+# APP[知乎]
 apm.zhihu.com
 zhstatic.zhihu.com
 zhihu-web-analytics.zhihu.com
 
-# APP [ADGuard Home Manager] By [JGeeK00]
+# APP[ADGuard Home Manager] By [JGeeK00]
 glitchtip.jgeek00.com
 
-# 腾讯
+# SDK[腾讯]
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
 # SDK名称：RMonitor
@@ -108,9 +120,13 @@ report.igtm-meeting-tencent.com
 report.meeting.tencent.com
 tracker-01.qvb.qcloud.com
 apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxstat.teg.tencent-cloud.net
+apd-pcdnvodstat.teg.tencent-cloud.net
+apd-vodp2plogin.teg.tencent-cloud.net
+apd-pcdnwxlogin.teg.tencent-cloud.net
+file.daihuo.qq.com
 
-
-# 谷歌
+# SDK[谷歌]
 ||google-analytics.com^
 
 # EXE[360极速浏览器] & other
@@ -122,7 +138,7 @@ cloud.browser.360.cn
 ||appjiagu.com^
 ||sayhi.360.cn^
 
-# web[百度]
+# WEB[百度]
 bes-mtj.baidu.com
 click.hm.baidu.com
 # boxer.baidu.com
@@ -141,16 +157,16 @@ mbd.baidu.com
 ug.baidu.com
 udpolimeok.baidu.com
 
-#京东
+# APP[京东]
 mllog.jd.com
 anti-sdk-report.m.jd.com
 sgm-m.jd.com
 uranus.jd.com
 stat.m.jd.com
-#京东250122
+# 京东250122
 ||jddebug.com^
 
-# 萤石
+# APP[萤石]
 log.ys7.com
 logcn.ys7.com
 devlog.ys7.com
@@ -159,6 +175,221 @@ pdms.ys7.com
 sqpds.ys7.com
 xy3pds.ys7.com
 
+# APP[tuya][涂鸦智能][智慧生活]
+sentry.tuyacn.com
+
+# APP[wps] EXE[wps]
+mb.adres.wpscdn.cn
+
+# EXE[雷电模拟器]
+||game-service.ldmnq.com^
+||appstore.ldmnq.com^
+||res.ldmnq.com^
+middledata.ldmnq.com
+user-service.ldmnq.com
+api.ldmnq.com
+ldapi.ldmnq.com
+cz-platform.ldmnq.com
+mnqfile.ldmnq.com
+mnq-service.ldmnq.com
+
+# OS[fnos]
+||dht.teiron-inc.cn^
+event.fnnas.com
+
+# APP[美团]
+||mads.meituan.com^
+||adsmind.ugdtimg.com^
+logan-rtl.dreport.meituan.net
+dreport.meituan.net
+
+# Unknown app is likely PCDN.
+||conf-darwin.xycdn.com^
+
+# APP[彩云天气]
+ad.cyapi.cn
+
+# EXE[potplayer]
+status.thawte.com
+play.kakao.com
+p1-play.edge4k.com
+stat.tiara.kakao.com
+
+# Preventing Privacy Leaks: Qualcomm Issues  
+||izatcloud.net^
+xtrapath.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
+# 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
+||medproad.com^
+||medproad.cn^
+adtracker.medproad.com
+
+# 上海咩叽科网络科技有限公司
+||magicacid.cn^
+
+# EXE[百分浏览器]
+stats.centbrowser.cn
+
+# APP[酷安]
+||shuzilm.cn^
+# 数字联盟：貌似是一个根据算法为同一个设备生成设备识别ID和可信分数的SDK
+integralwall.baidu.com
+
+# 统计和裂变
+api2.openinstall.io
+sdk.beizi.biz
+api-htp.beizi.biz
+
+# APP[球球大作战]
+athena-update.sdk.mobileztgame.com
+||cscn.loveota.com^
+ir-sdk.dun.163.com
+report.battleofballs.com
+/(^|\.)report[0-9]\.battleofballs\.com$/
+apis.sdk.mobileztgame.com
+
+# EXE[bandizip]
+||hibitsoft.ir^
+||bandi.so^
+c.pki.goog
+
+# WEB[CSDN]
+eva2.csdn.net
+mp-activity.csdn.net
+devpress-api.csdn.net
+bizapi.csdn.net
+
+# 微软 microsoft 250122
+||events.data.microsoft.com^
+in.appcenter.ms
+bzib.nelreports.net
+self.events.data.microsoft.com
+
+# APP[快手]
+# ntp.en.gifshow.com slink.gifshow.com push.gifshow.com az4-api-js.gifshow.com az4-upload-js.gifshow.com apijsv6.gifshow.com az4-live-js.gifshow.com #
+ulog.v6.gifshow.com
+gdfp.gifshow.com
+
+# APP[DJI Mimo][大疆商城]
+statistical-report.djiservice.org
+
+# APP[乐橙]
+/(^|\.)logreport-v[0-9]\.imou\.com$/
+
+
+# APP[云缴费]
+ecad2.cebbank.com
+
+# APP[C Mobile]
+apm.app.coc.10086.cn
+apm.cmccapp.coc.10086.cn
+apm.clientaccess.10086.cn
+
+# C Unicom
+# SDK[一键登录]
+enrichgw.10010.com
+msv6.wosms.cn
+
+# APP[C Telecom]
+reportappgo.189.cn
+# appgoad.189.cn is AD, but android APP [查询办理] need.
+
+# APP[搜狗输入法]
+shouji.sogou.com
+# AVD-2023-42579 搜狗 http://shouji.sogou.com/web_ime/mobile_pb.php
+
+# APP[adguard]
+mobile-api.adguard.org
+
+# ???[dnspod] DNS检测系统所用dns服务器
+*.check.dns.pub
+
+# ###################################################### Zone 01 网易系 ######################################################
+applogsg.matrix.netease.com
+analytics.mpay.netease.com
+audiostatlog.cc.163.com
+netapm.music.163.com
+down.anticheatexpert.com
+tqos.anticheatexpert.com
+dns.update.netease.com
+applog.matrix.netease.com
+ac.dun.163yun.com
+
+# ###################################################### Zone 02: 阿里系 ######################################################
+mum.alibabachengdun.com
+cdn-mum.alibabachengdun.com
+acs-mum.alibabachengdun.com
+vip-bgp-mum.alibabachengdun.com
+vip-chinanet-mum.alibabachengdun.com
+vip-cmcc-mum.alibabachengdun.com
+# 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
+agoo-report.m.taobao.com
+ynuf.alipay.com
+# APP[闲鱼]
+umc.danuoyi.alicdn.com
+px.ucweb.com
+h-adashx.ut.taobao.com
+# WEB[taobao]
+gm.mmstat.com
+s-gm.mmstat.com
+d-gm.mmstat.com
+
+# ###################################################### Zone 03: 小米系 ######################################################
+# 安装检查 疑似内网版 10.38.165.18
+api-installer.pt.xiaomi.com
+
+# 未启用的安装检查
+preview-api.installer.xiaomi.com
+
+# MIUI
+qsb.browser.miui.srv
+rom.pt.miui.srv
+ccc.sys.miui.com
+jupiter.sys.miui.com
+metok.sys.miui.com
+hybrid.miui.com
+hybrid.xiaomi.com
+adinfo.ra1.xlmc.sec.miui.com
+test.ad.xiaomi.com
+sentry.d.xiaomi.net
+sentry.d.mi.com
+
+# 一些来自于MIUI等系统内置应用的可能无用的SDK
+statres.quickapp.cn
+qr.quickapp.cn
+pssn.alicdn.com
+t7z.cupid.iqiyi.com
+mpush-api.aliyun.com
+worldwide.sogou.com
+
+# ###################################################### Har & mony & OS ######################################################
+logs.prod.flamingo.apelabs.net
+events-drcn.op.dbankcloud.cn
+
+# disable [grs.*] than install apk not tips sign modifyed.
+grs.dbankcloud.com
+grs.platform.dbankcloud.ru
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.eu
+
+metrics1-drcn.dt.dbankcloud.cn
+metrics.dt.dbankcloud.cn
+logservice.hicloud.com
+logservice.dbankcloud.cn
+logservice1.dbankcloud.cn
+
+# disable that than install directly without checking [安全中心]
+connectivitycheck.cbg-app.huawei.com.cn
+
+dnkeeper.platform.dbankcloud.cn
+dnkeeper.hicloud.com
+dnkeeper.dbankcloud.com
+dnkeeper.platform.hwcloudtest.cn
+# ###################################################### Zone 05: Lenovo ######################################################
 # 联想大杂烩（平板）
 cnszui.lenovomm.com
 icns.zui.lenovomm.com
@@ -186,129 +417,16 @@ mobile-ota.lenovo.com
 hao.lenovo.com.cn
 download.api.bsb.baidu.com
 
-# 联想 Unknown push
+# PC[联想]
+osfsr.lenovomm.com
+smartengine.lenovo.com.cn
+ldc.lenovo.com.cn
+dsp.lenovo.com.cn
+
+# Unknown push
 push-rest.zui.com
 # 联想平板内置的天气: api.weathercn.com
-
-# 雷电模拟器
-||game-service.ldmnq.com^
-||appstore.ldmnq.com^
-||res.ldmnq.com^
-middledata.ldmnq.com
-user-service.ldmnq.com
-api.ldmnq.com
-ldapi.ldmnq.com
-cz-platform.ldmnq.com
-mnqfile.ldmnq.com
-mnq-service.ldmnq.com
-
-# fnos
-||dht.teiron-inc.cn^
-event.fnnas.com
-
-# 美团
-||mads.meituan.com^
-||adsmind.ugdtimg.com^
-logan-rtl.dreport.meituan.net
-dreport.meituan.net
-
-# Unknown app is likely PCDN.
-||conf-darwin.xycdn.com^
-
-# 彩云天气
-ad.cyapi.cn
-
-#potplayer
-status.thawte.com
-play.kakao.com
-p1-play.edge4k.com
-stat.tiara.kakao.com
-
-# 友盟分销
-||umtrack.com^
-
-# Preventing Privacy Leaks: Qualcomm Issues  
-||izatcloud.net^
-xtrapath.izatcloud.net
-xtrapath1.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
-
-# 联通一键登录SDK (中国联合网络通信有限公司)
-enrichgw.10010.com
-msv6.wosms.cn
-
-# 北京亿典科技有限公司 admore (.cn备用)：admore.medproad.com
-||medproad.com^
-||medproad.cn^
-adtracker.medproad.com
-
-# 上海咩叽科网络科技有限公司
-||magicacid.cn^
-
-# EXE[百分浏览器]
-stats.centbrowser.cn
-
-# APP[酷安]
-||shuzilm.cn^
-# 数字联盟：貌似是一个根据算法为同一个设备生成设备识别ID和可信分数的SDK
-integralwall.baidu.com
-api-htp.beizi.biz
-file.daihuo.qq.com
-
-# APP[球球大作战]
-athena-update.sdk.mobileztgame.com
-||cscn.loveota.com^
-
-# EXE[bandizip]
-||hibitsoft.ir^
-||bandi.so^
-c.pki.goog
-
-# WEB[CSDN]
-eva2.csdn.net
-mp-activity.csdn.net
-devpress-api.csdn.net
-bizapi.csdn.net
-
-# 微软 250122
-||events.data.microsoft.com^
-in.appcenter.ms
-
-# 快手
-# ntp.en.gifshow.com slink.gifshow.com push.gifshow.com az4-api-js.gifshow.com az4-upload-js.gifshow.com apijsv6.gifshow.com az4-live-js.gifshow.com #
-ulog.v6.gifshow.com
-gdfp.gifshow.com
-# ###################################################### 专用分区1 网易系 ######################################################
-applogsg.matrix.netease.com
-analytics.mpay.netease.com
-audiostatlog.cc.163.com
-netapm.music.163.com
-down.anticheatexpert.com
-tqos.anticheatexpert.com
-dns.update.netease.com
-applog.matrix.netease.com
-ac.dun.163yun.com
-
-# ###################################################### 专用分区2 阿里系 ######################################################
-mum.alibabachengdun.com
-cdn-mum.alibabachengdun.com
-acs-mum.alibabachengdun.com
-vip-bgp-mum.alibabachengdun.com
-vip-chinanet-mum.alibabachengdun.com
-vip-cmcc-mum.alibabachengdun.com
-# 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
-agoo-report.m.taobao.com
-ynuf.alipay.com
-# APP[闲鱼]
-umc.danuoyi.alicdn.com
-px.ucweb.com
-h-adashx.ut.taobao.com
-# WEB[taobao]
-gm.mmstat.com
-s-gm.mmstat.com
-d-gm.mmstat.com
-# ###################################################### 专用分区3 字节系 ######################################################
+# ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
 # APMPlus是字节跳动应用开发套件MARS下的性能监控产品
@@ -324,15 +442,33 @@ toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
 ug.snssdk.com
 tnc3-aliec2.zijieapi.com
+||pangolin-dsp-toutiao.com^
 
-# 番茄小说 241001
+# APP[番茄小说]
+||activity-ag.awemeughun.com^
+||tnc*-alisc*.zijieapi.com^
+||tnc*-alisc*.snssdk.com^
+||abtest*-misc-lf.zijieapi.com^
+||abtest*-misc-lq.zijieapi.com^
+||abtest*-misc-hl.zijieapi.com^
+||mon*-misc-*.amemv.com^
+||mon*-misc-*.fqnovel.com^
+lf-reward-video.bytedcdn.com
+/(^|\.)frontier-toutiao-lb-v[0-9]\.hl\.bytelb\.net$/
+# direct.frontier-toutiao-lb-v3.hl.bytelb.net
+/(^|\.)frontier[0-999]-toutiao-hl\.fqnovel\.com$/
+# frontier100-toutiao-hl.fqnovel.com
+||p11-webcast-sign.douyinpic.com^
+||direct.webcast-websocket-lb.lf.bytelb.net^
+
+# APP[番茄小说] 241001
 ec*-core-hl.ecombdapi.com
 isaas*-normal-hl.ecombdapi.com
 ecom*-normal-hl.ecombdapi.com
 tr.byteurl.cn
 tnc*-aliec*.zijieapi.com
 
-# 番茄小说241104
+# APP[番茄小说] 241104
 mssdk.volces.com
 direct.webcast-websocket-lb.lq.bytelb.net
 p*-item.ecombdimg.com
@@ -341,12 +477,12 @@ imapi*-oth-hl.zijieapi.com
 rtapplog.zijieapi.com
 praisewindow-sinfonlineb.ugsdk.cn
 
-# 番茄小说241227
+# APP[番茄小说] 241227 (No association & attribution)
 #  上海博新锐科技有限公司 (牛链云)
 ||aigccdn.com^
 ||ietheivaicai.com^
 
-#番茄小说250120
+# APP[番茄小说] 250120
 ||p*-ecom-qualification-sign.ecombdimg.com^
 ||p*-novel.byteimg.com^
 ||lf*-ad.searchpstatp.com^
@@ -361,7 +497,6 @@ dm-hl.toutiao.com
 effect.snssdk.com
 saveu*-normal-hl.zijieapi.com
 ||p*-reading-sign.fqnovelpic.com^
-||abtest*-misc-hl.zijieapi.com^
 ||lf*-cdn-tos-ncdn.bytegecko.com^
 ||bsync*-normal-hl.zijieapi.com^
 /^[a-zA-Z0-9-_]{7,}\.vegslb\.com$/
@@ -372,3 +507,4 @@ api*-normal-hl.fqnovel.com
 feedback-c.zijieapi.com
 tp-pay.snssdk.com
 polaris-sinfonlineb.zijieapi.com
+tp-pay.snssdk.com
