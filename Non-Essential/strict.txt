@@ -358,3 +358,6 @@ saveu*-normal-hl.zijieapi.com
 mon*-misc-hl.fqnovel.com
 api*-normal-sinfonlineb.fqnovel.com
 api*-normal-hl.fqnovel.com
+feedback-c.zijieapi.com
+tp-pay.snssdk.com
+polaris-sinfonlineb.zijieapi.com
