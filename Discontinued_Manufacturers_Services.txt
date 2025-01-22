@@ -1,0 +1,17 @@
+# This file contains rules applicable to manufacturers or software that have been discontinued. The following security risks may arise from continued use:
+
+# For example:
+#   third parties may register and hold related domain names, impersonating the original API to hijack software or hardware.
+#     This may include: 
+#       1.intercepting information within the software.
+#       2.upgrading camera unsafe firmware, and uploading photos or videos.
+#       More...
+
+
+# Hardware[小看摄像头] note: [Still available for use via RTSP.]
+upgrade.zhjt.can-tv.cn
+api.zhjt.can-tv.cn
+||zhjt.can-tv.cn^
+
+# APP[极光WIFI] note: [Pandavan（PDCN）Router System android manager apk]
+reshome.oicp.net
