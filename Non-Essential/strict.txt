@@ -266,6 +266,17 @@ api-statically.vercel.app
 t2.xiaohongshu.com
 apm-fe.xiaohongshu.com
 
+# WEB[2345 only www]
+web.50bangzh.com
+
+# WEB[芒果TV]
+v2.da.mgtv.com
+web2.da.mgtv.com
+||log.mgtv.com
+vip.log.mgtv.com
+apm.log.mgtv.com
+pcweb-v1.log.mgtv.com
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
@@ -287,11 +298,15 @@ vip-chinanet-mum.alibabachengdun.com
 vip-cmcc-mum.alibabachengdun.com
 # 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
 agoo-report.m.taobao.com
+arms-retcode.aliyuncs.com
 ynuf.alipay.com
+
+
 # APP[闲鱼]
 umc.danuoyi.alicdn.com
 px.ucweb.com
 h-adashx.ut.taobao.com
+
 # WEB[taobao]
 gm.mmstat.com
 s-gm.mmstat.com
