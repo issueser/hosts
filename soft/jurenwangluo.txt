@@ -1,9 +1,17 @@
 ||battleofballs.com^
+||mobileztgame.com^
+||ztgame.com^
+||zt-g.com^
 
+www..battleofballs.com
 cdn1.battleofballs.com
 file.battleofballs.com
 app.battleofballs.com
 report.battleofballs.com
 weather.battleofballs.com
 acc.battleofballs.com
+
 apis.sdk.mobileztgame.com
+athena-update.sdk.mobileztgame.com
+
+zt-g.com
