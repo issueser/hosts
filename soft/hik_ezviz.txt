@@ -1,10 +1,12 @@
 ||ezviz.com^
 ||ys7.com^
+||hikiot.com^
+||hikmall.com^
+||hikvision.com^
 
 push.ys7.com
 devlog.ys7.com
 cart.ys7.com
-www.ezviz.com
 stats.ys7.com
 mfs.ys7.com
 waf.xy.ys7.com
@@ -12,3 +14,11 @@ m.ys7.com
 open.xy4.ys7.com
 open.ys7.com
 fastdfs-gateway.ys7.com
+
+www.ezviz.com
+
+api.hikiot.com
+
+hiknotify.hikvision.com
+
+file.hikmall.com
