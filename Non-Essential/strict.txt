@@ -29,9 +29,10 @@ hugelog.fcbox.com
 # 原始：live3239798946-report-api.zego.im
 cloud-log.yy.com
 ||log.aispeech.com^
-||log.hikmall.com^
-||dsplog.vivo.com.cn^
 ||gd.xinhuanet.com^
+
+# VIVO
+||dsplog.vivo.com.cn^
 
 # SDK[友盟]
 ||alogs.umengcloud.con^
@@ -77,58 +78,6 @@ zhihu-web-analytics.zhihu.com
 # APP[ADGuard Home Manager] By [JGeeK00]
 glitchtip.jgeek00.com
 
-# SDK[腾讯]
-rmonitor.qq.com
-# https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
-# SDK名称：RMonitor
-# 提供主体：深圳市腾讯计算机系统有限公司
-# 使用目的：用于统计用户数量
-# 处理方式：通过去标识化、加密传输和处理的安全处理方式
-# 收集个人信息类型：Identifier For Vendor(供应商标识符）
-||rqd.qq.com^
-log.weixin.qq.com
-logbk-qd.amemv.com
-mazu.m.qq.com
-mazu.3g.qq.com
-||info.appbuyapp.com^
-||beacon.qq.com^
-||bugly.qq.com^
-cgi.kandian.qq.com
-# 暂时取消cgi.connect.qq.com
-configsvr.msf.3g.qq.com
-tmfsdk.m.qq.com
-tmfsdk4.m.qq.com
-tmfsdk6.m.qq.com
-tmfsdktcpv4.m.qq.com
-tmfsdktcpv6.m.qq.com
-tmeadcomm.y.qq.com
-tools.3g.qq.com
-tmfsdktcp.m.qq.com
-||trace.qq.com^
-||tpstelemetry.tencent.com^
-api.yky.qq.com
-cfg.imtt.qq.com
-data.ab.qq.com
-info4.video.qq.com
-info6.video.qq.com
-tmead.y.qq.com
-tmeadbak.y.qq.com
-tmeadcomm.y.qq.com
-trace.qq.com
-trace.*.qq.com
-# 原始：trace.video.qq.com
-stdl.qq.com
-report.im.qcloud.com
-report.igtm-meeting-tencent.com
-report.meeting.tencent.com
-tracker-01.qvb.qcloud.com
-apd-pcdnwxnat.teg.tencent-cloud.net
-apd-pcdnwxstat.teg.tencent-cloud.net
-apd-pcdnvodstat.teg.tencent-cloud.net
-apd-vodp2plogin.teg.tencent-cloud.net
-apd-pcdnwxlogin.teg.tencent-cloud.net
-file.daihuo.qq.com
-
 # SDK[谷歌]
 ||google-analytics.com^
 
@@ -155,10 +104,12 @@ fxgate.baidu.com
 pimlog.baidu.com
 hector.baidu.com
 hectorstatic.baidu.com
-#百度250121
+# 百度 250121
 mbd.baidu.com
 ug.baidu.com
 udpolimeok.baidu.com
+# 250116
+report-uri.baidu.com
 
 # APP[京东]
 mllog.jd.com
@@ -168,15 +119,6 @@ uranus.jd.com
 stat.m.jd.com
 # 京东250122
 ||jddebug.com^
-
-# APP[萤石]
-log.ys7.com
-logcn.ys7.com
-devlog.ys7.com
-# EXE[iVMS-4200]
-pdms.ys7.com
-sqpds.ys7.com
-xy3pds.ys7.com
 
 # APP[tuya][涂鸦智能][智慧生活]
 sentry.tuyacn.com
@@ -205,6 +147,11 @@ event.fnnas.com
 ||adsmind.ugdtimg.com^
 logan-rtl.dreport.meituan.net
 dreport.meituan.net
+wreport.meituan.net
+wreport1.meituan.net
+hreport.meituan.com
+prism-report-web.dreport.meituan.net
+postreport.meituan.com
 
 # Unknown app is likely PCDN.
 ||conf-darwin.xycdn.com^
@@ -276,7 +223,6 @@ statistical-report.djiservice.org
 # APP[乐橙]
 /(^|\.)logreport-v[0-9]\.imou\.com$/
 
-
 # APP[云缴费]
 ecad2.cebbank.com
 
@@ -307,6 +253,9 @@ mobile-api.adguard.org
 # GAME[浪漫餐厅] By [microfun]
 da.oper.microfun.cn
 # microfun.com microfun.cn
+
+# WEB[statically.io] inurl: [https://statically.io/convert/]
+api-statically.vercel.app
 
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
@@ -372,6 +321,9 @@ statusapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 eu.statusapi.micloud.xiaomi.net
 
+# 250116
+report.sp.miui.com
+
 # ###################################################### Har & mony & OS ######################################################
 logs.prod.flamingo.apelabs.net
 events-drcn.op.dbankcloud.cn
@@ -396,6 +348,7 @@ dnkeeper.platform.dbankcloud.cn
 dnkeeper.hicloud.com
 dnkeeper.dbankcloud.com
 dnkeeper.platform.hwcloudtest.cn
+
 # ###################################################### Zone 05: Lenovo ######################################################
 # 联想大杂烩（平板）
 cnszui.lenovomm.com
@@ -433,7 +386,8 @@ dsp.lenovo.com.cn
 # Unknown push
 push-rest.zui.com
 # 联想平板内置的天气: api.weathercn.com
-# ###################################################### Zone 6: microsoft ######################################################
+
+# ###################################################### Zone 06: microsoft ######################################################
 # 250122
 ||events.data.microsoft.com^
 self.events.data.microsoft.com
@@ -463,6 +417,74 @@ kmwatsonc.events.data.microsoft.com
 # https://learn.microsoft.com/en-us/windows/deployment/update/wufb-reports-configuration-manual
 # https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization
 # https://support.microsoft.com/zh-cn/topic/%E6%9B%B4%E6%96%B0%E7%9A%84%E5%AE%A2%E6%88%B7%E4%BD%93%E9%AA%8C%E5%92%8C%E8%AF%8A%E6%96%AD%E9%81%A5%E6%B5%8B-0b4f29c3-8361-b748-f862-7ecedbc57cbf
+
+# ###################################################### Zone 07: 腾讯系 ######################################################
+# SDK[腾讯]
+rmonitor.qq.com
+# https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
+# SDK名称：RMonitor
+# 提供主体：深圳市腾讯计算机系统有限公司
+# 使用目的：用于统计用户数量
+# 处理方式：通过去标识化、加密传输和处理的安全处理方式
+# 收集个人信息类型：Identifier For Vendor(供应商标识符）
+||rqd.qq.com^
+log.weixin.qq.com
+logbk-qd.amemv.com
+mazu.m.qq.com
+mazu.3g.qq.com
+||info.appbuyapp.com^
+||beacon.qq.com^
+||bugly.qq.com^
+cgi.kandian.qq.com
+# 暂时取消cgi.connect.qq.com
+configsvr.msf.3g.qq.com
+tmfsdk.m.qq.com
+tmfsdk4.m.qq.com
+tmfsdk6.m.qq.com
+tmfsdktcpv4.m.qq.com
+tmfsdktcpv6.m.qq.com
+tmeadcomm.y.qq.com
+tools.3g.qq.com
+tmfsdktcp.m.qq.com
+||trace.qq.com^
+||tpstelemetry.tencent.com^
+api.yky.qq.com
+cfg.imtt.qq.com
+data.ab.qq.com
+info4.video.qq.com
+info6.video.qq.com
+tmead.y.qq.com
+tmeadbak.y.qq.com
+tmeadcomm.y.qq.com
+trace.qq.com
+trace.*.qq.com
+# 原始：trace.video.qq.com
+stdl.qq.com
+report.im.qcloud.com
+report.igtm-meeting-tencent.com
+report.meeting.tencent.com
+tracker-01.qvb.qcloud.com
+apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxstat.teg.tencent-cloud.net
+apd-pcdnvodstat.teg.tencent-cloud.net
+apd-vodp2plogin.teg.tencent-cloud.net
+apd-pcdnwxlogin.teg.tencent-cloud.net
+file.daihuo.qq.com
+report.tencentmusic.com
+
+# ###################################################### Zone 08: 海康系 ######################################################
+# APP[萤石]
+log.ys7.com
+logcn.ys7.com
+devlog.ys7.com
+
+# EXE[iVMS-4200]
+pdms.ys7.com
+sqpds.ys7.com
+xy3pds.ys7.com
+
+# APP[易调试]
+log.hikmall.com
 
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
