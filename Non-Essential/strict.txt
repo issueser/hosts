@@ -597,4 +597,3 @@ api*-normal-hl.fqnovel.com
 feedback-c.zijieapi.com
 tp-pay.snssdk.com
 polaris-sinfonlineb.zijieapi.com
-tp-pay.snssdk.com
