@@ -110,6 +110,9 @@ ug.baidu.com
 udpolimeok.baidu.com
 # 250116
 report-uri.baidu.com
+# 250123
+bgg.baidu.com
+dxp.baidu.com
 
 # APP[京东]
 mllog.jd.com
