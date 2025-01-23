@@ -1,0 +1,510 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2099/12/31
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+; 百度
+*.bcebos.com
+*.bdstatic.com
+*.baidu.com
+*.baidubce.com
+*.woa.com
+*.chip-space.com
+*.bdimg.com
+*.hao123.com
+*.hao123img.com
+
+; 小米
+*.mi.com
+*.mi-img.com
+*.xiaomi.com
+*.xiaomi.net
+*.mifile.cn
+
+; 美团
+*.meituan.net
+
+; 常用前端CDN分发
+*.baomitu.com
+*.bootcdn.cn
+*.upai.com
+*.staticfile.org
+
+; 哔哩哔哩
+*.hdslb.com
+*.bilibili.com
+*.bilivideo.com
+*.biliapi.net
+*.biliapi.com
+*.biligame.com
+*.bilicdn1.com
+
+; 飞致云
+*.fit2cloud.com
+
+; 网易
+*.163.com
+*.127.net
+*.126.net
+*.netease.com
+*.netease.im
+*.163yun.com
+*.youdao.com
+*.ydstatic.com
+
+; 米哈游
+*.mihoyo.com
+
+; 网站工具箱
+*.aizhan.com
+*.itdog.cn
+*.chinaz.com
+
+; 合宙
+*.openluat.com
+*.air724ug.cn
+*.air820ug.cn
+*.air700ec.cn
+
+; 西部数码
+*.hk32.cn
+*.west.cn
+*.myhostadmin.net
+*.vhostgo.com
+
+; 腾讯
+*.tencent.com
+*.qq.com
+*.qq.com.cn
+*.qimg.com
+*.gtimg.com
+*.gtimg.cn
+*.wgimg.com
+*.wqstatic.com
+*.qzone.com
+*.tencent-cloud.com
+*.qqmail.com
+*.weixin.com
+*.wechat.com
+*.wechatapp.com
+*.upqzfile.com
+*.qpic.cn
+*.qlogo.cn
+*.taotao.com
+*.discuz.net
+*.discuz.com
+*.weiyun.com
+*.pengyou.com
+*.imqq.com
+*.tencentads.cn
+*.tencentads.com.cn
+*.qqgames.com
+*.myqcloud.com
+
+; 360
+*.360.cn
+*.qhimg.com
+*.360simg.com
+*.so.com
+*.qhmsg.com
+*.g9hc4.cn
+*.qhres2.com
+*.qikucdn.com
+*.360tres.com
+*.qhupdate.com
+
+; 中国移动
+*.10086.cn
+*.migu.cn
+*.cmcc-cs.cn
+*.cmpassport.com
+*.mmarket.com
+*.online-cmcc.cn
+*.miguvideo.com
+*.mob.com
+*.139.com
+*.cmicapm.com
+*.cmicvip.cn
+*.zone139.com
+*.paycmic.cn
+*.andfx.cn
+*.5gsms.net
+*.yxas.net
+*.yxdl.net
+*.yxgf.net
+*.yxnl.net
+*.yxsv.net
+*.yxtp.net
+*.5gyx.cn
+*.5gyx.net
+*.5gxcx.net
+*.5gdx.net
+*.cmsoc.cn
+*.igzh.cn
+*.wxcs.cn
+*.h5cmpassport.com
+*.5gnewcall.cn
+*.hfx.net
+*.51hutui.com
+*.yihaoduozhongduan.com
+
+; 中国联通
+*.10010.com
+*.10010.cn
+*.10155.com
+*.chinaunicomvideo.cn
+*.wo.cn
+*.wo.com.cn
+*.chinaunicom.cn
+*.chinaunicom.com
+*.chinaunicom.com.cn
+*.10010.com
+*.10010.com.cn
+
+; 中国电信
+*.189.cn
+
+; 友盟
+*.umeng.com
+*.umengcloud.com
+*.umsns.com
+
+; 京东
+*.3.cn
+*.jd.com
+*.jdcloud.com
+*.360buyimg.com
+*.300hu.com
+
+; 苹果
+*.apple.com
+*.apple.com.cn
+*.icloud.com.cn
+*.cdn-apple.com
+
+; IP查询
+*.ip-api.com
+*.ip138.com
+*.ipip.net
+
+; 阿里
+*.taobao.com
+*.dingtalk.com
+*.dingtalk.cn
+*.dingtalkapps.com
+*.alidns.com
+*.alicdn.com
+*.alipay.com
+*.alipaydns.com
+*.aliyun.com
+*.aliyuncs.com
+*.alibaba.com
+*.alimebot.com
+*.aliyunpds.com
+*.aliwork.com
+*.aliimg.com
+*.alipayobjects.com
+*.aliyun-inc.com
+*.alibabausercontent.com
+*.alibaba-inc.com
+*.aliapp.org
+*.alimama.com
+*.1688.com
+*.teambition.net
+*.teambition.com
+*.tbcdn.cn
+*.effirst.com
+*.tbcache.com
+*.mmstat.com
+*.mxhichina.com
+*.youku.com
+*.ucweb.com
+*.goofish.com
+*.tanx.com
+*.xinnet.com
+*.yuque.com
+*.nlark.com
+
+; 高德地图
+*.amap.com
+
+; 搜狐
+*.sohu.com
+
+; 涂鸦
+*.iotwish.com
+*.iot-dns.com
+*.smart321.com
+*.tuya.com
+
+; 搜狗
+*.sogou.com
+*.sogoucdn.com
+
+; 字节跳动
+*.ecombdapi.com
+*.amemv.com
+*.awemeughun.com
+*.byteactivity.com
+*.bytegecko.com
+*.bytedance.com
+*.byteimg.com
+*.bytevcloud.com
+*.bytescm.com
+*.bytecdn.cn
+*.bytecdn.com
+*.bytegoofy.com
+*.byteimg.com
+*.douyinvod.com
+*.douyincdn.com
+*.douyinpic.com
+*.douyinstatic.com
+*.zijieapi.com
+*.qishui.com
+*.feishu.cn
+*.feishucdn.com
+*.365yg.com
+*.ctobsnssdk.com
+*.snssdk.com
+*.pstatp.com
+*.toutiaocloud.com
+*.idouyinvod.com
+*.volceapplog.com
+*.pangolin-sdk-toutiao.com
+*.douyinliving.com
+*.bytefcdn.com
+*.volcfcdndvs.com
+*.bvfcdn.com
+*.fqnovel.com
+*.ixigua.com
+*.pstatp.com
+*.huoshanlive.com
+
+; 网心云
+*.xycdn.com
+*.xycloud.com
+*.xunlei.com
+*.onethingtech.com.cn
+*.onethingcloud.com
+
+; 大疆
+*.dji.com
+*.djiservice.org
+*.dji.com
+*.djicdn.com
+*.djiops.com
+*.skypixel.com
+
+; 烽火
+*.mifon.com
+
+; 海康威视 萤石
+*.ys7.com
+*.hiklink.cn
+*.hikvision.com
+
+; 乐橙
+*.imou.com
+; dcloud
+*.dcloud.io
+*.dcloud.net.cn
+
+; 爱快
+*.ikuai8.com
+
+; 极光推送
+*.jpush.cn
+*.jiguang.cn
+
+; TP 水星
+*.tp-link.com.cn
+*.tplinkcloud.com.cn
+*.mercurycom.com.cn
+
+; 论坛类
+*.52pojie.cn
+*.125.la
+*.3600gz.cn
+*.kafan.cn
+*.right.com.cn
+
+; 新浪 微博
+*.weibo.com
+*.sinaimg.cn
+*.sinajs.cn
+*.sina.com.cn
+*.sina.com
+
+; 115网盘
+*.115.com
+
+; CSDN
+*.csdn.net
+*.csdnimg.cn
+
+; 博客
+*.cnblogs.com
+
+; 华为
+*.huawei.com
+; oppo
+*.oppo.com
+; vivo
+*.vivo.com
+*.vivo.com.cn
+
+; 一加
+*.oneplus.com
+*.oneplus.cn
+
+; 魅族
+*.meizu.com
+
+; 鹰角网络
+*.hypergryph.com
+*.hycdn.cn
+
+; 微步
+*.threatbook.cn
+
+; 精臣
+*.niimbot.com
+*.jc-saas.com
+
+; 华臣
+*.huachen.cn
+*.venuscn.com
+
+; 顺丰
+*.sf-card.com
+*.sf-express.com
+
+; 51啦
+*.51.la
+
+; 营业信息查询
+*.qcc.com
+*.qichacha.com
+*.tianyancha.com
+*.xcc.cn
+
+; x-wrt平台
+*.x-wrt.dev
+*.x-wrt.com
+
+; 网络测速
+*.ljxnet.cn
+*.nigx.cn
+
+; 银行
+*.icbc.com.cn
+*.abchina.com
+*.abchina.com.cn
+*.cebbank.com
+*.sdnxs.com
+*.psbc.com
+*.ccb.com
+*.boc.cn
+*.bankofchina.com
+*.bankcomm.com
+*.cmbchina.com
+*.cmbimg.com
+*.cmbc.com.cn
+*.eastmoney.com
+*.dfcfw.com
+*.dftzj.com
+
+; 服务器环境、面板
+*.1panel.cn
+*.bt.cn
+*.yunaq.com
+*.safedog.cn
+*.fortcloud.cn
+*.secpulse.com
+*.amh.sh
+
+; 网络安全新闻
+*.freebuf.com
+*.wooyun.org
+
+; gitee
+*.gitee.com
+
+; 知乎
+*.zhihu.com
+*.zhimg.com
+
+; 客服系统
+*.weiling.cn
+*.knet.cn
+*.7moor.com
+
+; 妖火
+*.yaohuo.me
+
+; 正‌攵
+*.gov.cn
+*.edu.cn
+
+; 简书
+*.jianshu.com
+
+; 百分浏览器
+*.centbrowser.cn
+
+; 无忧论坛
+*.wuyou.net
+
+; 2345
+*.2345.com
+*.2345cdn.net
+*.hao184.com
+*.2345.cc
+*.hao184.cn
+
+; 头条娱乐
+*.toutiaoyule.com
+
+; 高恪
+*.gocloud.cn
+
+; 联想
+*.lenovo.com.cn
+*.lenovomm.com
+
+; ucloud
+*.ucloud.com.cn
+
+; 金山
+*.ijinshan.com
+*.zhhainiao.com
+*.wps.com
+*.wps.cn
+*.ksmobile.com
+*.cmcm.com
+
+; 小红书
+*.xiaohongshu.com
+*.xhscdn.com
+
+; 芒果TV
+*.mgtv.com
+*.hitv.com
+
+; 建站
+*.wezhan.cn
+
+; 银尔达
+*.yinerda.com
+
+; vaultwarden平台
+*.vaultwarden.800666888.xyz
+
+; 飞牛os
+*.fnnas.com
+
+; 其它
+*.fkcaijing.com
+
+; 酷安
+*.coolapk.com
