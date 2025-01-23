@@ -262,6 +262,10 @@ da.oper.microfun.cn
 # WEB[statically.io] inurl: [https://statically.io/convert/]
 api-statically.vercel.app
 
+# WEB[小红书]
+t2.xiaohongshu.com
+apm-fe.xiaohongshu.com
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
