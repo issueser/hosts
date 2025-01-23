@@ -35,6 +35,8 @@ cloud-log.yy.com
 ||dsplog.vivo.com.cn^
 
 # SDK[友盟]
+ulogs.umengcloud.com
+ulogs.umeng.com
 ||alogs.umengcloud.con^
 # BY_APP[沃视频]
 utoken.umeng.com
@@ -310,6 +312,7 @@ adinfo.ra1.xlmc.sec.miui.com
 test.ad.xiaomi.com
 sentry.d.xiaomi.net
 sentry.d.mi.com
+adv.sec.miui.com
 
 # 一些来自于MIUI等系统内置应用的可能无用的SDK
 statres.quickapp.cn
@@ -351,6 +354,8 @@ dnkeeper.platform.dbankcloud.cn
 dnkeeper.hicloud.com
 dnkeeper.dbankcloud.com
 dnkeeper.platform.hwcloudtest.cn
+
+# Unknow : event-drcn.push.dbankcloud.cn
 
 # ###################################################### Zone 05: Lenovo ######################################################
 # 联想大杂烩（平板）
@@ -474,6 +479,8 @@ apd-vodp2plogin.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
 file.daihuo.qq.com
 report.tencentmusic.com
+log.tbs.qq.com
+
 
 # ###################################################### Zone 08: 海康系 ######################################################
 # APP[萤石]
