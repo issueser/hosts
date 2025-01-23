@@ -205,6 +205,7 @@ ir-sdk.dun.163.com
 report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
 apis.sdk.mobileztgame.com
+gaanalytics.ztgame.com
 
 # EXE[bandizip]
 ||hibitsoft.ir^
