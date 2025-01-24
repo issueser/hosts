@@ -201,6 +201,7 @@ api-htp.beizi.biz
 # APP[球球大作战]
 athena-update.sdk.mobileztgame.com
 ||cscn.loveota.com^
+||crcn.loveota.com^
 ir-sdk.dun.163.com
 report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
