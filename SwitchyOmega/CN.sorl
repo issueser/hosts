@@ -162,6 +162,7 @@
 *.chinaunicom.com.cn
 *.10010.com
 *.10010.com.cn
+*.wo116114.com
 
 ; 中国电信
 *.189.cn
@@ -415,6 +416,9 @@
 *.eastmoney.com
 *.dfcfw.com
 *.dftzj.com
+
+; 快递
+*.sto.cn
 
 ; 服务器环境、面板
 *.1panel.cn
