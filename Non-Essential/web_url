@@ -1,0 +1,31 @@
+# website track
+
+# WEB[百度]
+/sugrec?$to=www.baidu.com
+
+# WEB[CSDN]
+/phoenix/web/v1/ab?$to=blog.csdn.net
+/ad/json/list?$to=kunpeng.csdn.net
+/baidu_search_error?$to=statistic.csdn.net
+
+# WEB[grep.app]
+/api/send$to=grep.app
+
+# WEB[小红书]
+/api/v2/collect$to=t2.xiaohongshu.com
+$to=apm-fe.xiaohongshu.com
+
+# WEB[2345]
+/images/track.gif$to=2345.com
+/guess/v1/adList$to=guess-api.2345.com
+/trrs/v1/newReport$to=index-api.2345.com
+$to=show-g.mediav.com
+$to=web.50bangzh.com
+
+# WEB[京东]
+/v2/speed/event$to=h5speed.m.jd.com
+*functionId=pingou_webmonitor_biz*$to=api.m.jd.com
+
+/r.png$to=arms-retcode.aliyuncs.com
+
+/cgi-op/api/v1/statistics/data/report$to=home.mi.com
