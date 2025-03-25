@@ -122,8 +122,12 @@ anti-sdk-report.m.jd.com
 sgm-m.jd.com
 uranus.jd.com
 stat.m.jd.com
-# 京东250122
+# APP[京东] 250122
 ||jddebug.com^
+# APP[京东] 250326
+h5speed.m.jd.com
+knicks.jd.com
+mars.jd.com
 
 # APP[tuya][涂鸦智能][智慧生活]
 sentry.tuyacn.com
@@ -142,6 +146,7 @@ ldapi.ldmnq.com
 cz-platform.ldmnq.com
 mnqfile.ldmnq.com
 mnq-service.ldmnq.com
+mnqlog.ldmnq.com
 
 # OS[fnos]
 ||dht.teiron-inc.cn^
@@ -351,6 +356,9 @@ eu.statusapi.micloud.xiaomi.net
 # 250116
 report.sp.miui.com
 
+# APP[小米有品][米家][米家Beta][小米商城]
+stat.youpin.mi.com
+
 # ###################################################### Har & mony & OS ######################################################
 logs.prod.flamingo.apelabs.net
 events-drcn.op.dbankcloud.cn
@@ -377,6 +385,8 @@ dnkeeper.dbankcloud.com
 dnkeeper.platform.hwcloudtest.cn
 
 # Unknow : event-drcn.push.dbankcloud.cn
+
+apm.yun.hihonor.com
 
 # ###################################################### Zone 05: Lenovo ######################################################
 # 联想大杂烩（平板）
@@ -598,3 +608,18 @@ api*-normal-hl.fqnovel.com
 feedback-c.zijieapi.com
 tp-pay.snssdk.com
 polaris-sinfonlineb.zijieapi.com
+
+# APP[番茄小说] 250324
+gecko5-hl.zijieapi.com
+isaas3-normal-hl.ecombdapi.com
+mon.toutiaocloud.com
+gecko3-hl.zijieapi.com
+webcast5-open-hl.douyin.com
+pitaya.bytedance.com
+lf-webcast-gr-sourcecdn.bytegecko.com
+www.bytedance.com
+pull-tsl-t13.douyincdn.com
+lf-fe.fqnovelstatic.com
+p11-webcast.douyinpic.com
+is-hl.snssdk.com
+p-passport-sign.bytedance.net
