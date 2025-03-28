@@ -135,7 +135,7 @@ sentry.tuyacn.com
 # APP[wps] EXE[wps]
 mb.adres.wpscdn.cn
 
-# EXE[雷电模拟器]
+# EXE[雷电模拟器] ALL_Services
 ||game-service.ldmnq.com^
 ||appstore.ldmnq.com^
 ||res.ldmnq.com^
@@ -147,6 +147,8 @@ cz-platform.ldmnq.com
 mnqfile.ldmnq.com
 mnq-service.ldmnq.com
 mnqlog.ldmnq.com
+inf.ldmnq.com
+img.ldmnq.com
 
 # OS[fnos]
 ||dht.teiron-inc.cn^
@@ -212,6 +214,7 @@ report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
 apis.sdk.mobileztgame.com
 gaanalytics.ztgame.com
+||crcn.loveota.com^
 
 # EXE[bandizip]
 ||hibitsoft.ir^
@@ -283,6 +286,9 @@ web2.da.mgtv.com
 vip.log.mgtv.com
 apm.log.mgtv.com
 pcweb-v1.log.mgtv.com
+
+# APP[顺丰速运]
+ubs.sf-express.com
 
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
