@@ -1,0 +1,24 @@
+# Disable SIM 4G/5G login.
+# SDK[本机一键登录]
+
+# CMobile
+config.cmpassport.com
+www.cmpassport.com
+wap.cmpassport.com
+onekey1.cmpassport.com
+log1.cmpassport.com
+smsks1.cmpassport.com
+verify.cmpassport.com
+
+# CUnicom
+opencloud.wostore.cn
+auth.wosms.cn
+id.mail.wo.cn
+mdn.open.wo.cn
+hmrz.wo.cn
+nishub1.10010.com
+enrichgw.10010.com
+
+# CTelecom
+id6.me
+open.e.189.cn
