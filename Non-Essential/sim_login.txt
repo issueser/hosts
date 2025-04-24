@@ -18,6 +18,7 @@ mdn.open.wo.cn
 hmrz.wo.cn
 nishub1.10010.com
 enrichgw.10010.com
+msv6.wosms.cn
 
 # CTelecom
 id6.me
