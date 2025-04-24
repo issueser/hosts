@@ -628,4 +628,8 @@ lf-fe.fqnovelstatic.com
 p11-webcast.douyinpic.com
 is-hl.snssdk.com
 p-passport-sign.bytedance.net
+
+# APP[番茄小说] 250328
+#听书v5-gzb-hl-tc-fq-tts-a.fqnovelvod.com
+lf3-short.ibytedapm.com
 rtlog3-applog-lf.amemv.com
