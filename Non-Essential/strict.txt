@@ -122,6 +122,7 @@ anti-sdk-report.m.jd.com
 sgm-m.jd.com
 uranus.jd.com
 stat.m.jd.com
+cactus.jd.com
 # APP[京东] 250122
 ||jddebug.com^
 # APP[京东] 250326
@@ -247,9 +248,7 @@ apm.cmccapp.coc.10086.cn
 apm.clientaccess.10086.cn
 
 # C Unicom
-# SDK[一键登录]
-enrichgw.10010.com
-msv6.wosms.cn
+smartad.10010.com
 
 # APP[C Telecom]
 reportappgo.189.cn
@@ -629,3 +628,4 @@ lf-fe.fqnovelstatic.com
 p11-webcast.douyinpic.com
 is-hl.snssdk.com
 p-passport-sign.bytedance.net
+rtlog3-applog-lf.amemv.com
