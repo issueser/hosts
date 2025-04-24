@@ -215,7 +215,6 @@ report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
 apis.sdk.mobileztgame.com
 gaanalytics.ztgame.com
-||crcn.loveota.com^
 
 # EXE[bandizip]
 ||hibitsoft.ir^
@@ -289,6 +288,9 @@ pcweb-v1.log.mgtv.com
 # APP[顺丰速运]
 ubs.sf-express.com
 
+# APP[Quantumult]
+receiptcheck.quantumult.app
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
@@ -300,6 +302,7 @@ dns.update.netease.com
 applog.matrix.netease.com
 ac.dun.163yun.com
 netapm.music.163.com
+countly.mail.163.com
 
 # ###################################################### Zone 02: 阿里系 ######################################################
 mum.alibabachengdun.com
@@ -516,7 +519,16 @@ apd-pcdnwxlogin.teg.tencent-cloud.net
 file.daihuo.qq.com
 report.tencentmusic.com
 log.tbs.qq.com
-
+# WEB[腾讯视频]
+h.trace.qq.com
+aegis.qq.com
+beacon.cdn.qq.com
+snowflake.qq.com
+res.ab.qq.com
+vd6.l.qq.com
+vi.l.qq.com
+apd-vlive.apdcdn.tc.qq.com
+vr.gdt.qq.com
 
 # ###################################################### Zone 08: 海康系 ######################################################
 # APP[萤石]
