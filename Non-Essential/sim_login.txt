@@ -21,4 +21,4 @@ enrichgw.10010.com
 
 # CTelecom
 id6.me
-open.e.189.cn
+# [Cannot prohibited, interfering use.] open.e.189.cn
