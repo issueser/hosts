@@ -1,0 +1,7 @@
+# Need [dnsrewrite] support, Please ensure that it is in a newer version
+# Docs: https://adguard-dns.io/kb/general/dns-filtering-syntax/#dnsrewrite-modifier 
+
+time.android.com$important,dnsrewrite=NOERROR;CNAME;time.ys7.com
+time.izatcloud.net$important,dnsrewrite=NOERROR;CNAME;time.ys7.com
+time.windows.com$important,dnsrewrite=NOERROR;CNAME;time.ys7.com
+||pool.ntp.org$important,dnsrewrite=NOERROR;CNAME;time.ys7.com
