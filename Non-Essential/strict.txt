@@ -30,6 +30,7 @@ hugelog.fcbox.com
 cloud-log.yy.com
 ||log.aispeech.com^
 ||gd.xinhuanet.com^
+get-bx.g.aaplimg.com
 
 # VIVO
 ||dsplog.vivo.com.cn^
@@ -62,6 +63,7 @@ uploadlog.xlmc.sandai.net
 # AD[拼多多]
 adim.pinduoduo.com
 dspsdk.pinduoduo.com
+apm-a.pinduoduo.com
 
 # APP[什么值得买]
 sentry-monitor-new.zdmimg.com
@@ -215,6 +217,8 @@ report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
 apis.sdk.mobileztgame.com
 gaanalytics.ztgame.com
+hades.bobworld.net
+beacon.ztgame.com
 
 # EXE[bandizip]
 ||hibitsoft.ir^
@@ -234,6 +238,17 @@ gdfp.gifshow.com
 
 # APP[DJI Mimo][大疆商城]
 statistical-report.djiservice.org
+sentry-io.djiops.com
+sentry-io.djiops.com.w.cdngslb.com
+
+# APP[Spider Proxy] #only-ios#
+sentry.midway.run
+plausible.midway.run
+
+# APP[今日水印相机]
+sentry.xhey.top
+sareport.xhey.top
+fanzhaapi.xhey.top
 
 # APP[乐橙]
 /(^|\.)logreport-v[0-9]\.imou\.com$/
@@ -288,8 +303,40 @@ pcweb-v1.log.mgtv.com
 # APP[顺丰速运]
 ubs.sf-express.com
 
-# APP[Quantumult]
+# APP[Quantumult] #only_ios#
 receiptcheck.quantumult.app
+
+# APP[墨迹天气]
+||log.moji.com^
+||logd.api.moji.com^$important
+||log-verify.hiaiabc.com^$important
+||log-verify.dutils.com^$important
+
+# APP[驾考宝典]
+log-report.rtc.volcvideo.com
+t-dsp.pinduoduo.com
+license.vod2.myqcloud.com
+p*-ad.adukwai.com
+||kakamobi.cn^
+||kakamobi.com^
+telepathy.kakamobi.com
+vod-settings.volcvod.com
+vod-license-m.volccdn.com
+zx-vod-license.bytegslb.com
+neptune-api.volces.com
+||yximgs.com^
+1600052063l4c.my-imcloud.com
+neptune-api.volces.com.bytedns1.com
+
+# APP[USB摄像头]
+usbcamera.cscjapp.cn
+base.cscjapp.cn
+
+# APP[爱奇艺]
+cr-status.iqiyi.com
+
+# WEB[epicgames]
+tracking.epicgames.com
 
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
@@ -303,6 +350,7 @@ applog.matrix.netease.com
 ac.dun.163yun.com
 netapm.music.163.com
 countly.mail.163.com
+clientlogusf.music.163.com
 
 # ###################################################### Zone 02: 阿里系 ######################################################
 mum.alibabachengdun.com
@@ -326,6 +374,8 @@ h-adashx.ut.taobao.com
 gm.mmstat.com
 s-gm.mmstat.com
 d-gm.mmstat.com
+
+dypnsapi.aliyuncs.com
 
 # ###################################################### Zone 03: 小米系 ######################################################
 # 安装检查 疑似内网版 10.38.165.18
@@ -395,6 +445,7 @@ dnkeeper.platform.hwcloudtest.cn
 # Unknow : event-drcn.push.dbankcloud.cn
 
 apm.yun.hihonor.com
+metrics-drcn.dt.hihonorcloud.com
 
 # ###################################################### Zone 05: Lenovo ######################################################
 # 联想大杂烩（平板）
@@ -519,7 +570,9 @@ apd-pcdnwxlogin.teg.tencent-cloud.net
 file.daihuo.qq.com
 report.tencentmusic.com
 log.tbs.qq.com
-# WEB[腾讯视频]
+||ins-0xt2bis9.ias.tencent-cloud.net^$important
+
+# WEB[腾讯视频] 24----
 h.trace.qq.com
 aegis.qq.com
 beacon.cdn.qq.com
@@ -529,6 +582,13 @@ vd6.l.qq.com
 vi.l.qq.com
 apd-vlive.apdcdn.tc.qq.com
 vr.gdt.qq.com
+
+# APP[腾讯视频] 25----
+stat.tpns.tencent.com
+guid.tpns.tencent.com
+access1.tpns.tencent.com
+ios.crashsight.qq.com
+ios.crashsight.wetest.net
 
 # ###################################################### Zone 08: 海康系 ######################################################
 # APP[萤石]
@@ -645,3 +705,8 @@ p-passport-sign.bytedance.net
 #听书v5-gzb-hl-tc-fq-tts-a.fqnovelvod.com
 lf3-short.ibytedapm.com
 rtlog3-applog-lf.amemv.com
+
+# APP[番茄小说] 250718
+aserver-heyi-static-mob.youku.com
+xpis-mob-xcdn.youku.com
+xpis-xcdn.youku.com
