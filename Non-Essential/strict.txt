@@ -664,6 +664,7 @@ cdn-ali-file-shfront.shanhutech.cn
 wp.shanhutech.cn
 update.shanhutech.cn
 www1.shanhutech.cn
+online2.ts.api.xiangtatech.com
 
 # Real Doamin
 helpdesktop1.ksmobile.com
