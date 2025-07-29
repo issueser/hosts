@@ -117,6 +117,8 @@ report-uri.baidu.com
 # 250123
 bgg.baidu.com
 dxp.baidu.com
+# 250729
+hmma.baidu.com
 
 # APP[京东]
 mllog.jd.com
@@ -131,6 +133,12 @@ cactus.jd.com
 h5speed.m.jd.com
 knicks.jd.com
 mars.jd.com
+
+# APP[京东快递]
+ym.gslb.qianxun.com
+
+# APP[哔哩哔哩]
+shark-tracer.netease.com
 
 # APP[tuya][涂鸦智能][智慧生活]
 sentry.tuyacn.com
@@ -219,6 +227,8 @@ apis.sdk.mobileztgame.com
 gaanalytics.ztgame.com
 hades.bobworld.net
 beacon.ztgame.com
+download01.battleofballs.com
+cn.battleofballs.com
 
 # EXE[bandizip]
 ||hibitsoft.ir^
@@ -338,6 +348,18 @@ cr-status.iqiyi.com
 # WEB[epicgames]
 tracking.epicgames.com
 
+# APP[天翼云盘]
+ux.21cn.com
+
+# APP[今日水印相机]
+sentry.xhey.top
+sareport.xhey.top
+fanzhaapi.xhey.top
+p2-lm.adukwai.com
+p*-ad.adukwai.com
+msg.cmpassport.com
+ad.xhey.top
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
@@ -376,6 +398,8 @@ s-gm.mmstat.com
 d-gm.mmstat.com
 
 dypnsapi.aliyuncs.com
+
+||region.vss.aliyuncs.com^
 
 # ###################################################### Zone 03: 小米系 ######################################################
 # 安装检查 疑似内网版 10.38.165.18
@@ -604,6 +628,59 @@ xy3pds.ys7.com
 # APP[易调试]
 log.hikmall.com
 
+# ###################################################### Zone 09: ????? ######################################################
+# Low-quality, rogue, and promotional software, or even Trojan viruses downloaded by the dedicated virtual machine.
+# This area is automatically recorded, and the actual ownership and purpose have not been verified.
+# If any software is not running, please submit feedback issues.
+||app-measurement.com^
+||actiontrack.kujiale.com^
+# web page
+||camoryapps.com^
+||birdpaper.cn^
+||mydown.com^
+||sootool.net^
+
+# exe
+||dhxps.cc^
+||storerj.com^
+||qymaster.com^
+||gptchrome.cn^
+||bahanw.cn^
+||35go.net^
+||ggsafe.com^
+||c3ja.com^
+||52dian.com^
+
+# tech
+||cqttech.com^
+||xiangtatech.com^
+||shanhutech.cn^
+update-xztodolist.cqttech.com
+userweatherapi-xzdesktop.cqttech.com
+bizhi.shanhutech.cn
+shcdn-wp.shanhutech.cn
+cdn-hsyq-cms.shanhutech.cn
+cdn-ali-file-shfront.shanhutech.cn
+wp.shanhutech.cn
+update.shanhutech.cn
+www1.shanhutech.cn
+
+# Real Doamin
+helpdesktop1.ksmobile.com
+cd001.www.duba.net
+static.flmgr.net
+bbs.ggsafe.com
+task.ggsafe.com
+list.wallpaper.cloud.duba.net
+wp-pc-api.52dyhd.com
+rq.upgrade.cmpc.cmcm.com
+db-safe.2345.cc
+t-safe.2345.cc
+appother.camoryapps.com
+sem.camoryapps.com
+windows-datas.oss-cn-hangzhou.aliyuncs.com
+qinghui.oss-cn-hangzhou.aliyuncs.com
+
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
@@ -710,3 +787,7 @@ rtlog3-applog-lf.amemv.com
 aserver-heyi-static-mob.youku.com
 xpis-mob-xcdn.youku.com
 xpis-xcdn.youku.com
+
+# APP[番茄小说] 250729
+mercury.snssdk.com
+applog.uc.cn
