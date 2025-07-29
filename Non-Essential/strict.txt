@@ -683,6 +683,11 @@ sem.camoryapps.com
 windows-datas.oss-cn-hangzhou.aliyuncs.com
 qinghui.oss-cn-hangzhou.aliyuncs.com
 
+p2p.hd.sohu.com.cn
+# vokins/yhosts log/#.txt 1 matches
+# http://p2p.hd.sohu.com.cn/dcs.do?type=reg&error=0&v=5.2.6.2&ChannelID=1011&referID=&passport=&uid=496516571&LocalIp=192.168.144.1&clientIp=192.168.144.1&MashCode=DJ2SDRwm//uLF0F1dGhlbnRpY0FNRA==&NewMashCode=MEM5RDkyMEQxQzI2IzRaQlpCSkpYI1N5c3RlbVNlcmlhbE51bWJlcn4xODA1Mjc2MDExMDA0NTYjSzIwMTgvMDkvMTI6MjMtNTUtMTE=&timestamp=1538643844&t=1538643844&btea=4fe63087ea44b2e616e9f6d9c16f35a9
+
+
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
