@@ -31,6 +31,8 @@ cloud-log.yy.com
 ||log.aispeech.com^
 ||gd.xinhuanet.com^
 get-bx.g.aaplimg.com
+ya.yiche.com
+umdg-tencent.yiche.com
 
 # VIVO
 ||dsplog.vivo.com.cn^
@@ -121,6 +123,7 @@ dxp.baidu.com
 hmma.baidu.com
 # 250731
 reports.baidu.com
+nj.t.bcsp2p.baidu.com
 
 # APP[京东]
 mllog.jd.com
