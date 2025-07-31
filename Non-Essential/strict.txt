@@ -119,6 +119,8 @@ bgg.baidu.com
 dxp.baidu.com
 # 250729
 hmma.baidu.com
+# 250731
+reports.baidu.com
 
 # APP[京东]
 mllog.jd.com
