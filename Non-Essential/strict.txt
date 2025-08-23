@@ -365,6 +365,12 @@ p*-ad.adukwai.com
 msg.cmpassport.com
 ad.xhey.top
 
+# WEB[鹰角网络]
+event-log-api-data-lake-prod-cn.hypergryph.com
+
+# WEN[盛趣游戏]
+reportsk.web.sdo.com
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
