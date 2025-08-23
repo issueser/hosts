@@ -245,6 +245,7 @@
 *.sogoucdn.com
 
 ; 字节跳动
+*.douyin.com
 *.ecombdapi.com
 *.amemv.com
 *.awemeughun.com
