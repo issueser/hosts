@@ -331,6 +331,8 @@
 *.3600gz.cn
 *.kafan.cn
 *.right.com.cn
+*.ijingyi.com
+*.freebuf.com
 
 ; 新浪 微博
 *.weibo.com
@@ -512,6 +514,8 @@
 
 ; 其它
 *.fkcaijing.com
+*.eyuyan.tv
+*.ghxi.com
 
 ; 巨人网络
 *.battleofballs.com
