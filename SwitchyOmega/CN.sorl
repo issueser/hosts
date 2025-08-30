@@ -13,6 +13,8 @@
 *.bdimg.com
 *.hao123.com
 *.hao123img.com
+*.baidupcs.com
+;thumbnail6.baidupcs.com百度云盘缩略图
 
 ; 小米
 *.mi.com
