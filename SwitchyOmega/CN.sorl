@@ -87,6 +87,10 @@
 *.wqstatic.com
 *.qzone.com
 *.tencent-cloud.com
+*.tencent-cloud.cn
+*.qcloudimg.com
+*.tencentcs.cn
+*.tencentcs.com
 *.qqmail.com
 *.weixin.com
 *.wechat.com
@@ -104,6 +108,7 @@
 *.tencentads.com.cn
 *.qqgames.com
 *.myqcloud.com
+*.qcloud.com
 
 ; 360
 *.360.cn
@@ -438,9 +443,6 @@
 *.freebuf.com
 *.wooyun.org
 
-; gitee
-*.gitee.com
-
 ; 知乎
 *.zhihu.com
 *.zhimg.com
@@ -528,3 +530,9 @@
 
 ; 酷安
 *.coolapk.com
+
+; 其它
+*.simboss.com
+*.gitee.com
+*.qidian.com
+*.yuewen.com
