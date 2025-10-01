@@ -412,6 +412,9 @@ dypnsapi.aliyuncs.com
 
 ||region.vss.aliyuncs.com^
 
+# WEB[饿了么]
+perf.ele.me
+
 # ###################################################### Zone 03: 小米系 ######################################################
 # 安装检查 疑似内网版 10.38.165.18
 api-installer.pt.xiaomi.com
