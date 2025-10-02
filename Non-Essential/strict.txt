@@ -251,6 +251,9 @@ bizapi.csdn.net
 ulog.v6.gifshow.com
 gdfp.gifshow.com
 
+# WEB[快手]
+log-sdk.ksapisrv.com
+
 # APP[DJI Mimo][大疆商城]
 statistical-report.djiservice.org
 sentry-io.djiops.com
@@ -371,8 +374,8 @@ event-log-api-data-lake-prod-cn.hypergryph.com
 # WEB[盛趣游戏]
 reportsk.web.sdo.com
 
-# WEB[快手]
-log-sdk.ksapisrv.com
+# WEB[得物]
+sensors.dewu.com
 
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
