@@ -147,6 +147,7 @@ shark-tracer.netease.com
 
 # APP[tuya][涂鸦智能][智慧生活]
 sentry.tuyacn.com
+tpm.tuyacn.com
 
 # APP[wps] EXE[wps]
 mb.adres.wpscdn.cn
