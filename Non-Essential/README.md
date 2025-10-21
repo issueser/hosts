@@ -18,7 +18,12 @@ This project provides several rule files. Please choose the appropriate one base
 | `sim_login.txt`| General Use         | Specifically for "本机号码一键登录" (One-click login with mobile number network). |
 | `strict.txt`  | AdGuard Home        | General-purpose strict rules aiming for comprehensive coverage.            |
 
+`strict.txt` tips: **For some software(novel app),  that may only retain the most basic functions and even affect related software in the same series, please test it yourself.**
+
 ## Disclaimer
 
 **Use these files at your own risk.** The maintainers of this project are not responsible for any potential issues, broken functionality, or other consequences that may arise from their use. By using these rules, you acknowledge and accept all associated risks.
 
+## note
+
+**Starting from 2025/10/01 analysis software replacement,** so **Will reduce the frequency of updates for this project.**
