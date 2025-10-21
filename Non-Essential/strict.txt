@@ -721,17 +721,19 @@ p2p.hd.sohu.com.cn
 # ###################################################### Zone 10: 七猫系 ######################################################
 # APP[七猫小说] 20251020
 # note: Only guarantee readability of novels, Based on iOS version 7.82
-#阅读听书等记录
+#DIRECT list and reason. Default direct, therefore note.
+#阅读听书... record
 #api-sc.wtzw.com
-#阅读听书时长、幸运抽奖等界面
+#阅读听书时长、幸运抽奖... UI
 #api-gw.wtzw.com
-#章节目录等界面
+#章节目录... UI
 #api-ks.qm989.com
 #api-ks.wtzw.com
-#排行榜、阅读器部分分区、小说搜索等界面
+#排行榜、阅读器部分分区、小说搜索... UI
 #api-bc.qm989.com
 #api-bc.wtzw.com
-#以下是拒绝类
+#书圈... ui non-essential so not direct
+#REJECT list
 ad-drs-ipv6.52qumao.com
 ad-drs.52qumao.com
 cdn-ad.52qumao.com
@@ -770,8 +772,10 @@ a6-remad.qm989.com
 show-api.1sapp.com
 usr-api.1sapp.com
 t-cfg.wtzw.com
-host-suffix, fengkongcloud.cn
-host-suffix, fengkongcloud.com
+a-remad.qm989.com
+||fengkongcloud.cn^
+||fengkongcloud.com^
+
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
