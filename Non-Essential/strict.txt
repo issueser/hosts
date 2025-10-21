@@ -40,7 +40,9 @@ umdg-tencent.yiche.com
 # SDK[友盟]
 ulogs.umengcloud.com
 ulogs.umeng.com
-||alogs.umengcloud.con^
+alogs.umengcloud.com
+alogs.umeng.com
+uop.umeng.com
 # BY_APP[沃视频]
 utoken.umeng.com
 sss.umeng.com
@@ -427,6 +429,8 @@ perf.ele.me
 
 # WEB[淘宝] 251001
 pass.tmall.hk
+
+beacon-api.aliyuncs.com
 
 # ###################################################### Zone 03: 小米系 ######################################################
 # 安装检查 疑似内网版 10.38.165.18
@@ -882,3 +886,8 @@ applog.uc.cn
 
 #APP[番茄小说]
 vas.snssdk.com
+dig.bdurl.net
+log0-applog-hl.fqnovel.com
+api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao1.com
+amdc.m.taobao.com
