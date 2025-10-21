@@ -138,6 +138,9 @@ cactus.jd.com
 h5speed.m.jd.com
 knicks.jd.com
 mars.jd.com
+# APP[京东]
+anti-sdk-ccs-pre.m.jd.com
+cloudreport.jd.com
 
 # APP[京东快递]
 ym.gslb.qianxun.com
@@ -711,7 +714,60 @@ p2p.hd.sohu.com.cn
 # vokins/yhosts log/#.txt 1 matches
 # http://p2p.hd.sohu.com.cn/dcs.do?type=reg&error=0&v=5.2.6.2&ChannelID=1011&referID=&passport=&uid=496516571&LocalIp=192.168.144.1&clientIp=192.168.144.1&MashCode=DJ2SDRwm//uLF0F1dGhlbnRpY0FNRA==&NewMashCode=MEM5RDkyMEQxQzI2IzRaQlpCSkpYI1N5c3RlbVNlcmlhbE51bWJlcn4xODA1Mjc2MDExMDA0NTYjSzIwMTgvMDkvMTI6MjMtNTUtMTE=&timestamp=1538643844&t=1538643844&btea=4fe63087ea44b2e616e9f6d9c16f35a9
 
-
+# ###################################################### Zone 10: 七猫系 ######################################################
+# APP[七猫小说] 20251020
+# note: Only guarantee readability of novels, Based on iOS version 7.82
+#阅读听书等记录
+#api-sc.wtzw.com
+#阅读听书时长、幸运抽奖等界面
+#api-gw.wtzw.com
+#章节目录等界面
+#api-ks.qm989.com
+#api-ks.wtzw.com
+#排行榜、阅读器部分分区、小说搜索等界面
+#api-bc.qm989.com
+#api-bc.wtzw.com
+#以下是拒绝类
+ad-drs-ipv6.52qumao.com
+ad-drs.52qumao.com
+cdn-ad.52qumao.com
+api-cmnt.qm989.com
+cfgc.zztfly.com
+cgcr.wtzw.com
+api-cmnt.wtzw.com
+alibaba-cn-pvg-00001.oss-enet.aliyuncs.com
+drs.wtzw.com
+cdn-new-ad.wtzw.com
+api-bs.qm989.com
+api-bs.wtzw.com
+drs-ipv6.wtzw.com
+api-nps.wtzw.com
+abtest.wtzw.com
+api-cfg.wtzw.com
+update.wtzw.com
+mkt.wtzw.com
+aqtf4.peplle.cn
+s.peplle.cn
+upc.zztfly.com
+mktm.jd.com
+logrcv.aiclk.com
+rcv.aiclk.com
+mobads-pre-config.cdn.bcebos.com
+cpc-service-square.aiclk.com
+tracelog-debug.aiclk.com
+qm-front-sentry.wtzw.com
+e-u1.ubixioe.com
+adx-cfg-u1.ubixioe.com
+entry-su1.ubixioe.com
+api-adx.52qumao.com
+t-cfg.wtzw.com
+t-adx.52qumao.com
+a6-remad.qm989.com
+show-api.1sapp.com
+usr-api.1sapp.com
+t-cfg.wtzw.com
+host-suffix, fengkongcloud.cn
+host-suffix, fengkongcloud.com
 # ###################################################### Zone 99: 字节系 ######################################################
 apmplus.volces.com
 # 应用性能监控全链路版
@@ -731,6 +787,7 @@ tnc3-aliec2.zijieapi.com
 ||pangolin-dsp-toutiao.com^
 
 # APP[番茄小说]
+# note: Only guarantee readability of novels, Based on iOS version 6.8.7
 ||activity-ag.awemeughun.com^
 ||tnc*-alisc*.zijieapi.com^
 ||tnc*-alisc*.snssdk.com^
@@ -743,7 +800,7 @@ lf-reward-video.bytedcdn.com
 /(^|\.)frontier-toutiao-lb-v[0-9]\.hl\.bytelb\.net$/
 # direct.frontier-toutiao-lb-v3.hl.bytelb.net
 /(^|\.)frontier[0-999]-toutiao-hl\.fqnovel\.com$/
-# frontier100-toutiao-hl.fqnovel.com
+frontier100-toutiao-hl.fqnovel.com
 ||p11-webcast-sign.douyinpic.com^
 ||direct.webcast-websocket-lb.lf.bytelb.net^
 
@@ -822,3 +879,6 @@ xpis-xcdn.youku.com
 # APP[番茄小说] 250729
 mercury.snssdk.com
 applog.uc.cn
+
+#APP[番茄小说]
+vas.snssdk.com
