@@ -1,0 +1,14 @@
+http://connectivitycheck.gstatic.com/generate_204
+https://connectivitycheck.gstatic.com/generate_204
+
+https://www.google.com/generate_204
+http is 307
+
+https://clients1.google.com/generate_204
+https://clients2.google.com/generate_204
+https://clients3.google.com/generate_204
+
+https://www.youtube.com/generate_204
+
+http://www.v2ex.com/generate_204
+https://www.v2ex.com/generate_204
