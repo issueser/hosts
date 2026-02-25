@@ -23,3 +23,7 @@
 ||pull-rtmp-l11.ixigua.com^
 ||push-rtmp-l1.ixigua.com^
 ||pull-hs-f5-hot.flive.douyincdn.com^
+
+hw-edge.solseed.cn
+hw-edge.solseed.cn
+ali-edge.solseed.cn
