@@ -186,6 +186,8 @@ wreport1.meituan.net
 hreport.meituan.com
 prism-report-web.dreport.meituan.net
 postreport.meituan.com
+maplocatesdksnapshot.dreport.meituan.net
+prism-report-custom.dreport.meituan.net
 
 # Unknown app is likely PCDN.
 ||conf-darwin.xycdn.com^
@@ -387,6 +389,11 @@ sensors.dewu.com
 ad.mcloud.139.com
 data.cmicapm.com
 smsrebuild1.mail.10086.cn
+
+# EXE[mumu模拟器]
+sigma-agentlog-mumusdk.proxima.nie.netease.com
+sentry.netease.com
+report.mumu.nie.netease.com
 
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
@@ -649,6 +656,9 @@ guid.tpns.tencent.com
 access1.tpns.tencent.com
 ios.crashsight.qq.com
 ios.crashsight.wetest.net
+
+# APP[腾讯视频] 260226
+monitor.l.qq.com
 
 # ###################################################### Zone 08: 海康系 ######################################################
 # APP[萤石]
