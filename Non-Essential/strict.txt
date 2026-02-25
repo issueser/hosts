@@ -484,6 +484,9 @@ report.sp.miui.com
 # APP[小米有品][米家][米家Beta][小米商城]
 stat.youpin.mi.com
 
+# HAR[LX06]
+report-edge.agora.io
+
 # ###################################################### Har & mony & OS ######################################################
 logs.prod.flamingo.apelabs.net
 events-drcn.op.dbankcloud.cn
