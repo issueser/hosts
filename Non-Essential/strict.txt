@@ -383,6 +383,11 @@ reportsk.web.sdo.com
 # WEB[得物]
 sensors.dewu.com
 
+# WEB[139邮箱]
+ad.mcloud.139.com
+data.cmicapm.com
+smsrebuild1.mail.10086.cn
+
 # ###################################################### Zone 01 网易系 ######################################################
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
