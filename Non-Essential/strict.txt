@@ -188,6 +188,8 @@ prism-report-web.dreport.meituan.net
 postreport.meituan.com
 maplocatesdksnapshot.dreport.meituan.net
 prism-report-custom.dreport.meituan.net
+m2.dreport.meituan.net
+||dreport.meituan.net^
 
 # Unknown app is likely PCDN.
 ||conf-darwin.xycdn.com^
