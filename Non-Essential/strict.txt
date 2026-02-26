@@ -33,6 +33,7 @@ cloud-log.yy.com
 get-bx.g.aaplimg.com
 ya.yiche.com
 umdg-tencent.yiche.com
+firebaseinstallations.googleapis.com
 
 # VIVO
 ||dsplog.vivo.com.cn^
@@ -43,7 +44,16 @@ ulogs.umeng.com
 alogs.umengcloud.com
 alogs.umeng.com
 uop.umeng.com
-# BY_APP[沃视频]
+cnlogs.umengcloud.com
+cnlogs.umeng.com
+resolve.umeng.com
+ucc.umeng.com
+errnewlog.umeng.com
+utoken.umeng.com
+amdcopen.m.umeng.com
+audid.umeng.com
+
+# APP[沃视频]
 utoken.umeng.com
 sss.umeng.com
 zb-umpzid.umeng.com
@@ -410,6 +420,11 @@ ac.dun.163yun.com
 netapm.music.163.com
 countly.mail.163.com
 clientlogusf.music.163.com
+# APP[网易云音乐定制版:RY]
+ipv4.music.163.com
+ipv6.music.163.com
+crash.163.com
+clientlog3.music.163.com
 
 # ###################################################### Zone 02: 阿里系 ######################################################
 mum.alibabachengdun.com
@@ -445,6 +460,9 @@ perf.ele.me
 pass.tmall.hk
 
 beacon-api.aliyuncs.com
+
+# APP[taobao特价版]
+adashbc.ut.taobao.com
 
 # ###################################################### Zone 03: 小米系 ######################################################
 # 安装检查 疑似内网版 10.38.165.18
@@ -664,6 +682,14 @@ ios.crashsight.wetest.net
 
 # APP[腾讯视频] 260226
 monitor.l.qq.com
+oth.str.mdt.qq.com
+livep.l.qq.com
+p.l.qq.com
+dp3.qq.com
+
+# APP[腾讯会议] 260226
+report.meeting.tencent.com
+ugc-upload.3g.qq.com
 
 # ###################################################### Zone 08: 海康系 ######################################################
 # APP[萤石]
@@ -813,6 +839,10 @@ tobapplog.ctobsnssdk.com
 ug.snssdk.com
 tnc3-aliec2.zijieapi.com
 ||pangolin-dsp-toutiao.com^
+
+# APP[CapCut] 260226
+log32-normal-sg.capcutapi.com
+mssdk-sg.capcutapi.com
 
 # APP[番茄小说]
 # note: Only guarantee readability of novels, Based on iOS version 6.8.7
