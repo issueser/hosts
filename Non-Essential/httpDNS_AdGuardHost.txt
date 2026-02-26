@@ -42,3 +42,4 @@ httpdns.alipay.com
 
 # 260226
 httpdns2.eastmoney.com
+httpdns.n.netease.com
