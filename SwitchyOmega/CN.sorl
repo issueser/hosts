@@ -16,6 +16,10 @@
 *.baidupcs.com
 ;thumbnail6.baidupcs.com百度云盘缩略图
 
+; 蓝奏
+*.lanzou*.com
+developer-oss.lan*.com
+
 ; 小米
 *.mi.com
 *.mi-img.com
@@ -536,8 +540,14 @@
 ; 影视飓风
 *.ysjf.com
 
+; 什么值得买
+*.smzdm.com
+*.zdmimg.com
+
 ; 其它
 *.simboss.com
 *.gitee.com
 *.qidian.com
 *.yuewen.com
+*.html5plus.org
+
