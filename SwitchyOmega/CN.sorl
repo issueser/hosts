@@ -115,6 +115,8 @@ developer-oss.lan*.com
 *.qqgames.com
 *.myqcloud.com
 *.qcloud.com
+*.dnspod.cn
+*.tencentcloudapi.com
 
 ; 360
 *.360.cn
